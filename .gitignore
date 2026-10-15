@@ -1,0 +1,13 @@
+.gradle/
+build/
+.idea/
+*.iml
+__pycache__/
+*.pyc
+.env
+local/
+private/
+AGENTS.md
+CLAUDE.md
+.claude/
+.codex/

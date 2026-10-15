@@ -1,0 +1,14 @@
+{
+  "patchouli_books/buddycards_rules/book.json": "dfeb2d40f71fd21cf45c66491b3c3fd457f37cbb5c0d31109e7d63928693a53a",
+  "patchouli_books/buddycards_rules/en_us/categories/ability_list.json": "2cfc4511c106e339f5c59221edca0973966feecf23a568a4388991b22a8eb860",
+  "patchouli_books/buddycards_rules/en_us/categories/basics.json": "b83d30e5f3824bcf2e20840e5ca04d1db581843bee00bd7423177531a9c96ee1",
+  "patchouli_books/buddycards_rules/en_us/entries/ability_list/base_set.json": "6de1e851c31c40150e8b4b3edd77c9b8cf1950e6b0d5047e940174a07988f647",
+  "patchouli_books/buddycards_rules/en_us/entries/ability_list/nether_set.json": "80117696f6819415e4e9fa94cdb8eecd97b6f62f9c51e03cc9ccb98eddf0f628",
+  "patchouli_books/buddycards_rules/en_us/entries/ability_list/status_effects.json": "c9656b282899ddf79dfabd1c93e613294dd2a3b4a0c4c300ddc2ee287e62ba46",
+  "patchouli_books/buddycards_rules/en_us/entries/basics/abilities.json": "4a2a10bb72110f6101fdc7f9661fdda9fa79030c25f35c005d58fc58bfa8277e",
+  "patchouli_books/buddycards_rules/en_us/entries/basics/combat.json": "9e6e99316a683cd8da60e271f41c72fd5f39f357048682d604934c82f399370a",
+  "patchouli_books/buddycards_rules/en_us/entries/basics/deckbuilding.json": "866838790c0b954bc241d0ead1232c1d57503e9bbcfd8c79c8c1a3394dff8f34",
+  "patchouli_books/buddycards_rules/en_us/entries/basics/energy.json": "2ecde8f58ce7c9c092b48693f816c01617feabebac21018c3188e86a0db22dd1",
+  "patchouli_books/buddycards_rules/en_us/entries/basics/groupings.json": "f76e063c63e50a2a45abd45c385af319e61ee6a68d2ba3dd01540100cfa526b3",
+  "patchouli_books/buddycards_rules/en_us/entries/basics/setup.json": "a12d6ebad9aa63656729be70c9851dde1c7dda514e09d291c164de5bc6535a7b"
+}

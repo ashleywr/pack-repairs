@@ -1,0 +1,163 @@
+[
+  {
+    "resource": "bloomingnature:neoforge/biome_modifier/additions_beach.json",
+    "sha256": "95e8b7fa6be59a5c6223ebfdbfbb1d74dcf3da3cb77740c28e59318ee4aa8b47"
+  },
+  {
+    "resource": "bloomingnature:neoforge/biome_modifier/additions_birch_forest.json",
+    "sha256": "f59975b83a2f7b2de3ed32f9158f34d60bff50a70457758408a2926cc28aa709"
+  },
+  {
+    "resource": "bloomingnature:neoforge/biome_modifier/additions_cherry_grove.json",
+    "sha256": "32894987d46b48524366aa39345012f53694a52bad7ac52a5782f7c8e7689744"
+  },
+  {
+    "resource": "bloomingnature:neoforge/biome_modifier/additions_dark_forest.json",
+    "sha256": "98e5ee755fce00664d91819bdbe4afda737d3fad374692a1f4c4dfc5f2123250"
+  },
+  {
+    "resource": "bloomingnature:neoforge/biome_modifier/additions_desert.json",
+    "sha256": "246b347a6e1fa5263ac8d05e9a27622b8700a185a9fc467201a80ecc405813bc"
+  },
+  {
+    "resource": "bloomingnature:neoforge/biome_modifier/additions_flower_forest.json",
+    "sha256": "9e80479042f82043d639a4755acf9781f214e282b1a65904ebce675aba52e5d2"
+  },
+  {
+    "resource": "bloomingnature:neoforge/biome_modifier/additions_forest.json",
+    "sha256": "939fd3c6f1766f7166f1b66d8abb91311fb6070bbfa37f59a7c4da4a46462371"
+  },
+  {
+    "resource": "bloomingnature:neoforge/biome_modifier/additions_ground_litter.json",
+    "sha256": "28acdf8937fd33e3987e968c32ebd77e839556819dfda026b98781ce055c80a9"
+  },
+  {
+    "resource": "bloomingnature:neoforge/biome_modifier/additions_jungle.json",
+    "sha256": "326dd790a36672d04fafd709fb9f834b3cae73a3e071ea5e570e9df1c5c49a1b"
+  },
+  {
+    "resource": "bloomingnature:neoforge/biome_modifier/additions_old_growth_birch_forest.json",
+    "sha256": "9dcce626b878bfbbbaf414c174cc17a0bc8b75192155e3ea95dc6a5ad61401f8"
+  },
+  {
+    "resource": "bloomingnature:neoforge/biome_modifier/additions_old_growth_pine_taiga.json",
+    "sha256": "a8053e8113b3e5817a1dd4697fe3855010313e85656ba33f6b6d05d4353f0f82"
+  },
+  {
+    "resource": "bloomingnature:neoforge/biome_modifier/additions_old_growth_spruce_taiga.json",
+    "sha256": "01b21ecb24a271399bbf64e29128c16b930ce648208587fd18732f17beedae86"
+  },
+  {
+    "resource": "bloomingnature:neoforge/biome_modifier/additions_plains.json",
+    "sha256": "8a68ba543a719073e1551737c117f2fd924a3f3c2bf312be520749f4ca84ff5e"
+  },
+  {
+    "resource": "bloomingnature:neoforge/biome_modifier/additions_river.json",
+    "sha256": "8c31408d2a271dbc7802e66f813c40bd1f6a2b22f61091702c5dc406b6fc8d63"
+  },
+  {
+    "resource": "bloomingnature:neoforge/biome_modifier/additions_savanna.json",
+    "sha256": "958fe7db1b48f9abed87974bb067089a9e14ca84372f34888f0fd4b78dddc8fa"
+  },
+  {
+    "resource": "bloomingnature:neoforge/biome_modifier/additions_savanna_plateau.json",
+    "sha256": "676cb4662aa0405dfbca7c0d4885af1c4cc6c3ef1e25d3c6b317912be7a7de3d"
+  },
+  {
+    "resource": "bloomingnature:neoforge/biome_modifier/additions_snowy_slopes.json",
+    "sha256": "1f24d38017fd4ca04040a5eeac880d9c31ddef909403b21e809181eab8ecc107"
+  },
+  {
+    "resource": "bloomingnature:neoforge/biome_modifier/additions_snowy_taiga.json",
+    "sha256": "1ac92e32b2ec2deaf88c8e9a1b477bde5408284fe276c2ea7529ab8aedf327da"
+  },
+  {
+    "resource": "bloomingnature:neoforge/biome_modifier/additions_sparse_jungle.json",
+    "sha256": "011406e0248aab8ccd46263961109cea1843520323d7745b2188a989e68b166e"
+  },
+  {
+    "resource": "bloomingnature:neoforge/biome_modifier/additions_stony_shore.json",
+    "sha256": "d2c495fb43dc44c686dc6e253727d167f783d8e83893f6a80993cd748dffddcb"
+  },
+  {
+    "resource": "bloomingnature:neoforge/biome_modifier/additions_sunflower_plains.json",
+    "sha256": "90ad50ce08c8df4f9a158e2abf1767f326a3152d97de26c642c1d977c29b051f"
+  },
+  {
+    "resource": "bloomingnature:neoforge/biome_modifier/additions_swamp.json",
+    "sha256": "f9149ce7379abfb3cc7ae0849eb222ffdb2aa43b5ede6045657294bb884e51f0"
+  },
+  {
+    "resource": "bloomingnature:neoforge/biome_modifier/additions_taiga.json",
+    "sha256": "fb824677f4e7c5bb3ab57cb5b9e2c0a5e6a4db22cc3f1671222736646eadd41b"
+  },
+  {
+    "resource": "bloomingnature:tags/worldgen/biome/has_ground_litter.json",
+    "sha256": "4c56796c220460f2b711ae60845880d8610073179dec677840843dd04784276a"
+  },
+  {
+    "resource": "bloomingnature:worldgen/biome/aspen_forest.json",
+    "sha256": "b264edf9d527e8c0def2f0d2baa29227959e4f32c19ef00dc09d1c83483671ea"
+  },
+  {
+    "resource": "bloomingnature:worldgen/biome/baobab_savanna.json",
+    "sha256": "96130fec99ddeec3e79814c962ab018423b46078fc6f6bb1c9e920f13a1f1e43"
+  },
+  {
+    "resource": "bloomingnature:worldgen/biome/brushland.json",
+    "sha256": "06f87428ecb1c2b1b4093c6e03487a464953f7ff95075e21c81a88a530b0dea0"
+  },
+  {
+    "resource": "bloomingnature:worldgen/biome/cold_grassland.json",
+    "sha256": "cfcd37e146e02bf7ffbde0dd744bc31a05c33a4add6ece48dc9ec98c5799540c"
+  },
+  {
+    "resource": "bloomingnature:worldgen/biome/cold_river.json",
+    "sha256": "6fc9d341f70459234eb9d3ef2abd58cb54ef6a1334f5cbcec2e86b8441cf8173"
+  },
+  {
+    "resource": "bloomingnature:worldgen/biome/cypress_fields.json",
+    "sha256": "04fa2f19e3bfdeed7437da61b07e37ee4bd50608e3510192531a429aaddeb469"
+  },
+  {
+    "resource": "bloomingnature:worldgen/biome/desert_oasis.json",
+    "sha256": "8571a3f82c3484273bc58f4859fd407326a5557182667e45ce811940c785d60e"
+  },
+  {
+    "resource": "bloomingnature:worldgen/biome/desert_river.json",
+    "sha256": "6b6c4ce05c51aa86073a16e4535a669e34c759e176b55983af3b810bbc4fb8bc"
+  },
+  {
+    "resource": "bloomingnature:worldgen/biome/fen.json",
+    "sha256": "334f2b61b27c29c6aff0bf3731afa1c614fc894840556fdbf6c79508b171e14f"
+  },
+  {
+    "resource": "bloomingnature:worldgen/biome/flower_glade.json",
+    "sha256": "9b579b21ab6f21d12e060dcc6fe4f80be82d67e64d1332c2157f12101eda7e4a"
+  },
+  {
+    "resource": "bloomingnature:worldgen/biome/forest_edge.json",
+    "sha256": "cef15409c13ea85eae1bb96b1a1b5fbbf88242a5b8c1520136ce8c66f2f46515"
+  },
+  {
+    "resource": "bloomingnature:worldgen/biome/golden_glade.json",
+    "sha256": "288f19c9d39dffc5d24278308f1450a2fe78416acedc063607ebfef73e0fc6cc"
+  },
+  {
+    "resource": "bloomingnature:worldgen/biome/highland_woods.json",
+    "sha256": "f8492ab1b329236061ecd699307c6fc242976921d22c830ea7ca858b8817ac9f",
+    "repair_sha256": "149be2ff54f73a311ad97c000e7485a847c09af5435e5cde5049b209b2d35987"
+  },
+  {
+    "resource": "bloomingnature:worldgen/biome/jungle_river.json",
+    "sha256": "d0fd640040ed3caec0f808d5a542a710320fa56aa563bd4cc81c20d77c56a947"
+  },
+  {
+    "resource": "bloomingnature:worldgen/biome/larch_forest.json",
+    "sha256": "b63efde6bc12cb46cda326254b14737f1bfeea94b046db8099b3c06b4f6f0011"
+  },
+  {
+    "resource": "bloomingnature:worldgen/biome/marshland.json",
+    "sha256": "671f5cef2e2ac645dad035a10c9d8e6b2a5cbb348a24038f44f88aadd816cfa4"
+  }
+]

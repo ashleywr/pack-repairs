@@ -1,0 +1,656 @@
+[
+  {
+    "id": "extradelight.disabled_dough_condition",
+    "mods": [
+      "extradelight"
+    ],
+    "resource": "minecraft:recipe/dough.json",
+    "sha256": "1c140c1dc254aa9d4f2e9447141f95587065d6b3013d5b2adf1189b795086551",
+    "operations": [
+      {
+        "op": "replace",
+        "path": "/neoforge:conditions/0/type",
+        "value": "neoforge:false"
+      }
+    ]
+  },
+  {
+    "id": "netherexp.removed_item_recipes",
+    "mods": [
+      "netherexp"
+    ],
+    "resource": "netherexp:recipe/warphopper_fur_paper.json",
+    "sha256": "21a69e9e691785899a3b2187345d48c9da6211714a2131004e3e8b6ca5976064",
+    "operations": [
+      {
+        "op": "add",
+        "path": "/neoforge:conditions",
+        "value": [
+          {
+            "type": "neoforge:item_exists",
+            "item": "netherexp:warphopper_fur"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "netherexp.removed_item_recipes",
+    "mods": [
+      "netherexp"
+    ],
+    "resource": "netherexp:recipe/cooking/iron_nugget_from_iron_scrap.json",
+    "sha256": "da5fa59fc528bd340c421c17ec37addd00a75e33bb03fbda3f5666f5696903f1",
+    "operations": [
+      {
+        "op": "add",
+        "path": "/neoforge:conditions",
+        "value": [
+          {
+            "type": "neoforge:item_exists",
+            "item": "netherexp:iron_scrap"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "netherexp.removed_item_recipes",
+    "mods": [
+      "netherexp"
+    ],
+    "resource": "netherexp:recipe/cooking/iron_nugget_from_iron_scrap_blasting.json",
+    "sha256": "175feaeee9bba99ea5abdeda70324b07bb17ed5c734503b50405bf35d0e2a1e9",
+    "operations": [
+      {
+        "op": "add",
+        "path": "/neoforge:conditions",
+        "value": [
+          {
+            "type": "neoforge:item_exists",
+            "item": "netherexp:iron_scrap"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "netherexp.removed_item_recipes",
+    "mods": [
+      "netherexp"
+    ],
+    "resource": "netherexp:recipe/igneous_reeds_orange_dye.json",
+    "sha256": "3d029c060d3dbd115b0b27007bca80d1baea8d6bd34784403422dc11ddfd65fa",
+    "operations": [
+      {
+        "op": "add",
+        "path": "/neoforge:conditions",
+        "value": [
+          {
+            "type": "neoforge:item_exists",
+            "item": "netherexp:igneous_reeds"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "netherexp.removed_item_recipes",
+    "mods": [
+      "netherexp"
+    ],
+    "resource": "netherexp:recipe/stonecutting/from_pale_soul_slate/indented.json",
+    "sha256": "9880f9651dbe63c172c218eaba8b27d88e290fd38ebd5dfe26151e08df3d460b",
+    "operations": [
+      {
+        "op": "add",
+        "path": "/neoforge:conditions",
+        "value": [
+          {
+            "type": "neoforge:item_exists",
+            "item": "netherexp:indented_soul_slate_tiles"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "jadensnetherexpansiondelight.removed_fungus_recipes",
+    "mods": [
+      "jadensnetherexpansiondelight"
+    ],
+    "resource": "jadensnetherexpansiondelight:recipe/red_scale_fungus_roll.json",
+    "sha256": "f6b39742959bede894a6b3aaafa71f9b096254618daee9fd5643981b74e800ca",
+    "operations": [
+      {
+        "op": "add",
+        "path": "/neoforge:conditions",
+        "value": [
+          {
+            "type": "neoforge:item_exists",
+            "item": "netherexp:red_scale_fungus"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "jadensnetherexpansiondelight.removed_fungus_recipes",
+    "mods": [
+      "jadensnetherexpansiondelight"
+    ],
+    "resource": "jadensnetherexpansiondelight:recipe/blue_scale_fungus_roll.json",
+    "sha256": "50f82d1fe3d5b4c77d9fb08f48b4e90e7bb382248b0bada5d1d8288c902eb9b6",
+    "operations": [
+      {
+        "op": "add",
+        "path": "/neoforge:conditions",
+        "value": [
+          {
+            "type": "neoforge:item_exists",
+            "item": "netherexp:blue_scale_fungus"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sawmill.repurposed_structures_condition",
+    "mods": [
+      "sawmill@1.21-1.8.1"
+    ],
+    "resource": "sawmill:rs_pieces_spawn_counts/village_badlands.json",
+    "sha256": "2334d9098e50265aece6eeb01bf62b2190b13133b84c8ebcd4203058e615bdd4",
+    "operations": [
+      {
+        "op": "resolve_fabric_flag",
+        "path": "/fabric:load_conditions",
+        "flag": "sawmill.rs_compat",
+        "inactiveKey": "pieces_spawn_counts"
+      }
+    ]
+  },
+  {
+    "id": "sawmill.repurposed_structures_condition",
+    "mods": [
+      "sawmill@1.21-1.8.1"
+    ],
+    "resource": "sawmill:rs_pieces_spawn_counts/village_bamboo.json",
+    "sha256": "2d1ea8761c8eff938adc02a482a56adb4d7eaacfd18a6fe6614674ab510c9ba5",
+    "operations": [
+      {
+        "op": "resolve_fabric_flag",
+        "path": "/fabric:load_conditions",
+        "flag": "sawmill.rs_compat",
+        "inactiveKey": "pieces_spawn_counts"
+      }
+    ]
+  },
+  {
+    "id": "sawmill.repurposed_structures_condition",
+    "mods": [
+      "sawmill@1.21-1.8.1"
+    ],
+    "resource": "sawmill:rs_pieces_spawn_counts/village_birch.json",
+    "sha256": "32dd119be81cecab05fc0d95fdb0678efda0159f8119171d5072cc8ff4ec19ef",
+    "operations": [
+      {
+        "op": "resolve_fabric_flag",
+        "path": "/fabric:load_conditions",
+        "flag": "sawmill.rs_compat",
+        "inactiveKey": "pieces_spawn_counts"
+      }
+    ]
+  },
+  {
+    "id": "sawmill.repurposed_structures_condition",
+    "mods": [
+      "sawmill@1.21-1.8.1"
+    ],
+    "resource": "sawmill:rs_pieces_spawn_counts/village_cherry.json",
+    "sha256": "2dbd0d4787baec062da6163270e5b27d39c5f8abff379a1a7f85ed61052f291d",
+    "operations": [
+      {
+        "op": "resolve_fabric_flag",
+        "path": "/fabric:load_conditions",
+        "flag": "sawmill.rs_compat",
+        "inactiveKey": "pieces_spawn_counts"
+      }
+    ]
+  },
+  {
+    "id": "sawmill.repurposed_structures_condition",
+    "mods": [
+      "sawmill@1.21-1.8.1"
+    ],
+    "resource": "sawmill:rs_pieces_spawn_counts/village_crimson.json",
+    "sha256": "eb6c2dc15cbdfad78612f9cfe2065a1b7b9b01e7797f4d5570a862df9b80e407",
+    "operations": [
+      {
+        "op": "resolve_fabric_flag",
+        "path": "/fabric:load_conditions",
+        "flag": "sawmill.rs_compat",
+        "inactiveKey": "pieces_spawn_counts"
+      }
+    ]
+  },
+  {
+    "id": "sawmill.repurposed_structures_condition",
+    "mods": [
+      "sawmill@1.21-1.8.1"
+    ],
+    "resource": "sawmill:rs_pieces_spawn_counts/village_dark_forest.json",
+    "sha256": "49bef5e346396c5d800fb88e639e4d2bf4207544c510fee53cf8ad64fd9db463",
+    "operations": [
+      {
+        "op": "resolve_fabric_flag",
+        "path": "/fabric:load_conditions",
+        "flag": "sawmill.rs_compat",
+        "inactiveKey": "pieces_spawn_counts"
+      }
+    ]
+  },
+  {
+    "id": "sawmill.repurposed_structures_condition",
+    "mods": [
+      "sawmill@1.21-1.8.1"
+    ],
+    "resource": "sawmill:rs_pieces_spawn_counts/village_giant_taiga.json",
+    "sha256": "86009804a8671a364bbcc3c9dba74d752051adc5c671f6df4c4252f0a4f9fcc9",
+    "operations": [
+      {
+        "op": "resolve_fabric_flag",
+        "path": "/fabric:load_conditions",
+        "flag": "sawmill.rs_compat",
+        "inactiveKey": "pieces_spawn_counts"
+      }
+    ]
+  },
+  {
+    "id": "sawmill.repurposed_structures_condition",
+    "mods": [
+      "sawmill@1.21-1.8.1"
+    ],
+    "resource": "sawmill:rs_pieces_spawn_counts/village_jungle.json",
+    "sha256": "fca15da8bd7682ecf84713e55d5e613863c46097ff18541433e06d5b86301f34",
+    "operations": [
+      {
+        "op": "resolve_fabric_flag",
+        "path": "/fabric:load_conditions",
+        "flag": "sawmill.rs_compat",
+        "inactiveKey": "pieces_spawn_counts"
+      }
+    ]
+  },
+  {
+    "id": "sawmill.repurposed_structures_condition",
+    "mods": [
+      "sawmill@1.21-1.8.1"
+    ],
+    "resource": "sawmill:rs_pieces_spawn_counts/village_mountains.json",
+    "sha256": "42bfac2975a734b119cf9f8662da257d2d2ce23aef6ab500b75d780b7a5612a3",
+    "operations": [
+      {
+        "op": "resolve_fabric_flag",
+        "path": "/fabric:load_conditions",
+        "flag": "sawmill.rs_compat",
+        "inactiveKey": "pieces_spawn_counts"
+      }
+    ]
+  },
+  {
+    "id": "sawmill.repurposed_structures_condition",
+    "mods": [
+      "sawmill@1.21-1.8.1"
+    ],
+    "resource": "sawmill:rs_pieces_spawn_counts/village_mushroom.json",
+    "sha256": "2d4dc790d115ac492ddab858140a9a3dab30f5c93008f12527a766d11b3d549c",
+    "operations": [
+      {
+        "op": "resolve_fabric_flag",
+        "path": "/fabric:load_conditions",
+        "flag": "sawmill.rs_compat",
+        "inactiveKey": "pieces_spawn_counts"
+      }
+    ]
+  },
+  {
+    "id": "sawmill.repurposed_structures_condition",
+    "mods": [
+      "sawmill@1.21-1.8.1"
+    ],
+    "resource": "sawmill:rs_pieces_spawn_counts/village_oak.json",
+    "sha256": "19ea289602b0ee93c3503fcdb977acf990cc27429e7fa1afaa3f0c4831a9b0c3",
+    "operations": [
+      {
+        "op": "resolve_fabric_flag",
+        "path": "/fabric:load_conditions",
+        "flag": "sawmill.rs_compat",
+        "inactiveKey": "pieces_spawn_counts"
+      }
+    ]
+  },
+  {
+    "id": "sawmill.repurposed_structures_condition",
+    "mods": [
+      "sawmill@1.21-1.8.1"
+    ],
+    "resource": "sawmill:rs_pieces_spawn_counts/village_ocean.json",
+    "sha256": "8e8d59224b7f5cb063843fd1ab2b08cb17df06cb662c241df69a870212fd4df7",
+    "operations": [
+      {
+        "op": "resolve_fabric_flag",
+        "path": "/fabric:load_conditions",
+        "flag": "sawmill.rs_compat",
+        "inactiveKey": "pieces_spawn_counts"
+      }
+    ]
+  },
+  {
+    "id": "sawmill.repurposed_structures_condition",
+    "mods": [
+      "sawmill@1.21-1.8.1"
+    ],
+    "resource": "sawmill:rs_pieces_spawn_counts/village_swamp.json",
+    "sha256": "d510163b35ece98ce1485c99809559bc428a2a8afb0964be86702e2db874df8e",
+    "operations": [
+      {
+        "op": "resolve_fabric_flag",
+        "path": "/fabric:load_conditions",
+        "flag": "sawmill.rs_compat",
+        "inactiveKey": "pieces_spawn_counts"
+      }
+    ]
+  },
+  {
+    "id": "sawmill.repurposed_structures_condition",
+    "mods": [
+      "sawmill@1.21-1.8.1"
+    ],
+    "resource": "sawmill:rs_pieces_spawn_counts/village_warped.json",
+    "sha256": "6e985b958c2269a40991916f1c2d333cb3a0242ccb408155d51a5b5bae6cca3e",
+    "operations": [
+      {
+        "op": "resolve_fabric_flag",
+        "path": "/fabric:load_conditions",
+        "flag": "sawmill.rs_compat",
+        "inactiveKey": "pieces_spawn_counts"
+      }
+    ]
+  },
+  {
+    "id": "sawmill.repurposed_structures_condition",
+    "mods": [
+      "sawmill@1.21-1.8.1"
+    ],
+    "resource": "sawmill:rs_pool_additions/villages/badlands/houses.json",
+    "sha256": "f0b43e953b869e4b91b9d45ebccb3a96fde58a64af68d555d315b5864529e85a",
+    "operations": [
+      {
+        "op": "resolve_fabric_flag",
+        "path": "/fabric:load_conditions",
+        "flag": "sawmill.rs_compat",
+        "inactiveKey": "elements"
+      }
+    ]
+  },
+  {
+    "id": "sawmill.repurposed_structures_condition",
+    "mods": [
+      "sawmill@1.21-1.8.1"
+    ],
+    "resource": "sawmill:rs_pool_additions/villages/bamboo/houses.json",
+    "sha256": "c8825d5efdba0669c3528c38ea2a1e2066386939eb5d2d50d00fd7f063bb11a7",
+    "operations": [
+      {
+        "op": "resolve_fabric_flag",
+        "path": "/fabric:load_conditions",
+        "flag": "sawmill.rs_compat",
+        "inactiveKey": "elements"
+      }
+    ]
+  },
+  {
+    "id": "sawmill.repurposed_structures_condition",
+    "mods": [
+      "sawmill@1.21-1.8.1"
+    ],
+    "resource": "sawmill:rs_pool_additions/villages/birch/houses.json",
+    "sha256": "3ca8999bb91cd302cdb5d22c96e638be2e5c06c61acea9d3416576169bcef17e",
+    "operations": [
+      {
+        "op": "resolve_fabric_flag",
+        "path": "/fabric:load_conditions",
+        "flag": "sawmill.rs_compat",
+        "inactiveKey": "elements"
+      }
+    ]
+  },
+  {
+    "id": "sawmill.repurposed_structures_condition",
+    "mods": [
+      "sawmill@1.21-1.8.1"
+    ],
+    "resource": "sawmill:rs_pool_additions/villages/cherry/houses.json",
+    "sha256": "0ec7951778cf6d51b5ecead788b88e64671cec032656aa6bb0591400d453fed4",
+    "operations": [
+      {
+        "op": "resolve_fabric_flag",
+        "path": "/fabric:load_conditions",
+        "flag": "sawmill.rs_compat",
+        "inactiveKey": "elements"
+      }
+    ]
+  },
+  {
+    "id": "sawmill.repurposed_structures_condition",
+    "mods": [
+      "sawmill@1.21-1.8.1"
+    ],
+    "resource": "sawmill:rs_pool_additions/villages/crimson/houses.json",
+    "sha256": "0068f95b9582653b8ee3004a98ec4549f61a363d2242e1ea829cad8c06e9d271",
+    "operations": [
+      {
+        "op": "resolve_fabric_flag",
+        "path": "/fabric:load_conditions",
+        "flag": "sawmill.rs_compat",
+        "inactiveKey": "elements"
+      }
+    ]
+  },
+  {
+    "id": "sawmill.repurposed_structures_condition",
+    "mods": [
+      "sawmill@1.21-1.8.1"
+    ],
+    "resource": "sawmill:rs_pool_additions/villages/dark_forest/houses.json",
+    "sha256": "d8a4192306d062549ae47909e4de62e641435364160bebc76d70c5bdc04857c5",
+    "operations": [
+      {
+        "op": "resolve_fabric_flag",
+        "path": "/fabric:load_conditions",
+        "flag": "sawmill.rs_compat",
+        "inactiveKey": "elements"
+      }
+    ]
+  },
+  {
+    "id": "sawmill.repurposed_structures_condition",
+    "mods": [
+      "sawmill@1.21-1.8.1"
+    ],
+    "resource": "sawmill:rs_pool_additions/villages/giant_taiga/houses.json",
+    "sha256": "b9644d42b77c893b67d033c7ddfa6634e6c4bd1ae1091eaa57954b4daa6e42c5",
+    "operations": [
+      {
+        "op": "resolve_fabric_flag",
+        "path": "/fabric:load_conditions",
+        "flag": "sawmill.rs_compat",
+        "inactiveKey": "elements"
+      }
+    ]
+  },
+  {
+    "id": "sawmill.repurposed_structures_condition",
+    "mods": [
+      "sawmill@1.21-1.8.1"
+    ],
+    "resource": "sawmill:rs_pool_additions/villages/jungle/houses.json",
+    "sha256": "57552080434270a1908479d1ea652dd4d5166fdb3fb67319b97ef80165cd601d",
+    "operations": [
+      {
+        "op": "resolve_fabric_flag",
+        "path": "/fabric:load_conditions",
+        "flag": "sawmill.rs_compat",
+        "inactiveKey": "elements"
+      }
+    ]
+  },
+  {
+    "id": "sawmill.repurposed_structures_condition",
+    "mods": [
+      "sawmill@1.21-1.8.1"
+    ],
+    "resource": "sawmill:rs_pool_additions/villages/mountains/houses.json",
+    "sha256": "28ddcfc6b632ed601d12afe1e481d87f2fceff8811f2d2aa571b507538a3dd2e",
+    "operations": [
+      {
+        "op": "resolve_fabric_flag",
+        "path": "/fabric:load_conditions",
+        "flag": "sawmill.rs_compat",
+        "inactiveKey": "elements"
+      }
+    ]
+  },
+  {
+    "id": "sawmill.repurposed_structures_condition",
+    "mods": [
+      "sawmill@1.21-1.8.1"
+    ],
+    "resource": "sawmill:rs_pool_additions/villages/mushroom/houses.json",
+    "sha256": "521c927f52668512162b4fb2fb66ec3d889f4d506f2bdcc7e32ebe7fc37c3424",
+    "operations": [
+      {
+        "op": "resolve_fabric_flag",
+        "path": "/fabric:load_conditions",
+        "flag": "sawmill.rs_compat",
+        "inactiveKey": "elements"
+      }
+    ]
+  },
+  {
+    "id": "sawmill.repurposed_structures_condition",
+    "mods": [
+      "sawmill@1.21-1.8.1"
+    ],
+    "resource": "sawmill:rs_pool_additions/villages/oak/houses.json",
+    "sha256": "e8f37355a50c5c11ec2d7ee33e8de83718ee0f09514b28f2cfaa699a71ae822a",
+    "operations": [
+      {
+        "op": "resolve_fabric_flag",
+        "path": "/fabric:load_conditions",
+        "flag": "sawmill.rs_compat",
+        "inactiveKey": "elements"
+      }
+    ]
+  },
+  {
+    "id": "sawmill.repurposed_structures_condition",
+    "mods": [
+      "sawmill@1.21-1.8.1"
+    ],
+    "resource": "sawmill:rs_pool_additions/villages/ocean/houses.json",
+    "sha256": "a471b65ba6914565a19feba26f00553b57a454414cb6070c687301685c84739f",
+    "operations": [
+      {
+        "op": "resolve_fabric_flag",
+        "path": "/fabric:load_conditions",
+        "flag": "sawmill.rs_compat",
+        "inactiveKey": "elements"
+      }
+    ]
+  },
+  {
+    "id": "sawmill.repurposed_structures_condition",
+    "mods": [
+      "sawmill@1.21-1.8.1"
+    ],
+    "resource": "sawmill:rs_pool_additions/villages/swamp/houses.json",
+    "sha256": "99be8d598b23f1350fe4cf15447fa92fb4dac5cdc4662f2de29100d33fa66d5e",
+    "operations": [
+      {
+        "op": "resolve_fabric_flag",
+        "path": "/fabric:load_conditions",
+        "flag": "sawmill.rs_compat",
+        "inactiveKey": "elements"
+      }
+    ]
+  },
+  {
+    "id": "sawmill.repurposed_structures_condition",
+    "mods": [
+      "sawmill@1.21-1.8.1"
+    ],
+    "resource": "sawmill:rs_pool_additions/villages/warped/houses.json",
+    "sha256": "c7fb68b8350d96486b7380da335b65db8904984327e11222a5dc46167fd71004",
+    "operations": [
+      {
+        "op": "resolve_fabric_flag",
+        "path": "/fabric:load_conditions",
+        "flag": "sawmill.rs_compat",
+        "inactiveKey": "elements"
+      }
+    ]
+  },
+  {
+    "id": "hexerei.recipe_advancement_root",
+    "mods": [
+      "hexerei"
+    ],
+    "resource": "minecraft:advancement/recipes/root.json",
+    "sha256": "0627cb2e6fe3d239568f97aa2ebe41384e60f679923b962047dc308ede50707b",
+    "operations": [
+      {
+        "op": "remove",
+        "path": "/parent"
+      },
+      {
+        "op": "replace",
+        "path": "/criteria",
+        "value": {
+          "impossible": {
+            "trigger": "minecraft:impossible"
+          }
+        }
+      },
+      {
+        "op": "replace",
+        "path": "/requirements",
+        "value": [
+          [
+            "impossible"
+          ]
+        ]
+      },
+      {
+        "op": "remove",
+        "path": "/rewards"
+      }
+    ]
+  },
+  {
+    "id": "netherexp.brain_food_advancement_parent",
+    "mods": [
+      "netherexp"
+    ],
+    "resource": "netherexp:advancement/nether/soul_sand_valley/big_brain_time.json",
+    "sha256": "4e067633e7a2f0a60b1be69c27781e50e485c17d1530b164bb02eedcc5a1e531",
+    "operations": [
+      {
+        "op": "replace",
+        "path": "/parent",
+        "value": "netherexp:nether/brain_food"
+      }
+    ]
+  }
+]

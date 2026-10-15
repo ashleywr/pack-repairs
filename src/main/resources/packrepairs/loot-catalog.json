@@ -1,0 +1,4656 @@
+[
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/amber_cogwheel.json",
+    "sha256": "f6c13435d8787bb6310ac1f4a2fb34cf5fd05445850db76317b5bafc2ba76efa",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/amber_container.json",
+    "sha256": "34e1e078d60c15a75201b53705b6574668bc8d43988f849fdacac7462e8a57e0",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/amber_dark_metal_block.json",
+    "sha256": "3cc4c7618513208ef70a48c3bb32248a95c7939b941abf568bb54dc73f7ee44a",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/amber_dark_metal_plating.json",
+    "sha256": "6f9a7a17cc942696946e8135c98634d97ae254750beac9036cc36021ca3314b7",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/amber_display_board.json",
+    "sha256": "cd5261bc6cbc5417354f35297a1d9105833e10d26ccdd28b36b79675a0eea7e1",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/amber_flywheel.json",
+    "sha256": "a70981dd710c5ad2680c98204a87cbdafcb31d3d2e79a922512cbf7783bf9fd9",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/amber_industrial_cogwheel.json",
+    "sha256": "7e70ea5f74cdba6049acf35b44e341c244e3344f1020efce58d45f4c6cd9f4e8",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/amber_large_cogwheel.json",
+    "sha256": "e15ccfec3eeefb158244e882070c45b5e4f824e75ae91e68e3a7b693ef250611",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/amber_large_fan.json",
+    "sha256": "0ff49982df37d9ccc6586820eef6d77341d05942af2882c1e7ef333b89116f7f",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/amber_large_industrial_cogwheel.json",
+    "sha256": "3f6fd41bcb8d46e705c6d9c5f35ba2a605627da89c5e7810ecf38e16fc082897",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/amber_large_metal_girder.json",
+    "sha256": "b932e1debd8ee3277b76d20d67259ff425fb0a5895157d6fd7b44f7551ac0c56",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/amber_sheet_metal.json",
+    "sha256": "74939de554d16a8b18034d6d031ac0ce83245bbb7c227510fb588241f22cd13e",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/amber_small_deepslate_tiles.json",
+    "sha256": "2f3a8e3c898d5e91fd924c0c3d78c2ec8dfa9f2de7317bbfe6ad8ff7aad6dc03",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/amber_stone_metal.json",
+    "sha256": "f692e42e45ed264b879c0af98633cac56498286c84172b6a76a8c6ffef25b251",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/amber_velvet_block.json",
+    "sha256": "5f8c6a6a1cd6b71631b0a5ca415f543d1ac0f84bb111aa65e146a50495acdd51",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/aqua_cogwheel.json",
+    "sha256": "a56aa5a907b041395aac48ec3d9001e6a7bb59c08044efbb5e00dc4703cdfe08",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/aqua_container.json",
+    "sha256": "efe8c840e8cb82e327bbdd3737e9f8e43511e9ec165a73cf279c14eb6bb7bc54",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/aqua_dark_metal_block.json",
+    "sha256": "c7f4c62c21e925bb1a449a3ceb62e67ad434055f6c67ec97c9c51253bdecba81",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/aqua_dark_metal_plating.json",
+    "sha256": "00afabb42d8fad3d47e23f3fbd01b8d70a247be13ec42208f6429710eca6e655",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/aqua_display_board.json",
+    "sha256": "c159a4b7ff992b5df6dc410418e476ea8ed37f25207f5799de7aba4732e14f1d",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/aqua_flywheel.json",
+    "sha256": "2a378741038159456dc28e331215ce310df78ec0846a7f76a84215f688217d38",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/aqua_industrial_cogwheel.json",
+    "sha256": "71dfb5f7b1c4c5e075e5695652c37652d598a70c36a52eab6035eab6078e7b80",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/aqua_large_cogwheel.json",
+    "sha256": "294eac43601afa0a1c5115cde8fe8dd738ba72116520972c50e355d6b56c1b90",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/aqua_large_fan.json",
+    "sha256": "82d77697c5b101fe0ce3d8a3af9ec59b4f87d8e07ab6f61cf1bfecbffa498425",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/aqua_large_industrial_cogwheel.json",
+    "sha256": "7800c0430f0fd5a1de6ce3ba4a1873477bb917f58d6fd09b7fd625945b070287",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/aqua_large_metal_girder.json",
+    "sha256": "b4445c44798e900e233189c727d99220b835246b98a78cd09fd8b73e7a01a433",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/aqua_sheet_metal.json",
+    "sha256": "d7d55982f870be24e7f33f4aded917ab5a899dc1a44c30396c9f50ce671f208d",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/aqua_small_deepslate_tiles.json",
+    "sha256": "b800aaa02ce0fc6fcf22aaf70cc88121ff11c16870574045d4711124f1ba355c",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/aqua_stone_metal.json",
+    "sha256": "d2d5cba684f3d8da57200201dd5d656f686ec729485f4e114b8125f960548807",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/aqua_velvet_block.json",
+    "sha256": "874429ba0563ca27006da281b953465a07d853847b66e14192a06482608211ce",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/beige_cogwheel.json",
+    "sha256": "6724cfe8820fe53f14d4b24045106a319171fe2bfb0b95da5ea64410f40a7d36",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/beige_container.json",
+    "sha256": "c442635d54462919d2cd8a220f7447e1dd773e56030e79a9b546bd1b3fef8721",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/beige_dark_metal_block.json",
+    "sha256": "9823ed337d11e97a23a8a109a096ba2d3a749c6af48190f65caa7cbadb52e6c9",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/beige_dark_metal_plating.json",
+    "sha256": "53777e874170949ad6f027c0f9aef093967ad47d045dc711d5db3d0a20c86c75",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/beige_display_board.json",
+    "sha256": "63a1634d1417ccb1c52aa92bebcd25e5bc05627a808777d6db78cacd7f7db941",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/beige_flywheel.json",
+    "sha256": "94c88d4b3319b61c34a686c1f4b347e7b1865a3ce8eb4ad0021db2b002a48dd0",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/beige_industrial_cogwheel.json",
+    "sha256": "26bb94e7d7e59f3508055130af84ea7b8b14316bfc82b93dec45d8a4f70dd34b",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/beige_large_cogwheel.json",
+    "sha256": "4d276e78d205bb9584ec4df83851b44f3746105609de6f8a214cf6c9d959ddb4",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/beige_large_fan.json",
+    "sha256": "d41cbd4f757e44c59c1215af6d705d62ca23f1cbc26ca5d62d7cfac8d21df023",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/beige_large_industrial_cogwheel.json",
+    "sha256": "1ce05f3821c8f3c00d493296f7c9acbb7f5725a7265e27f0bf999089107a72d4",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/beige_large_metal_girder.json",
+    "sha256": "232ba6fd14b20428841011fbf0c89b2be12deea20b6e3b480646e89f1dbecd10",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/beige_sheet_metal.json",
+    "sha256": "56d54c2050479212d2ec2867ef822959727d322970bdf7a6e470f546c24c3062",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/beige_small_deepslate_tiles.json",
+    "sha256": "801bc3284be8866327859237266cac5205888037f74cf821188f71ff60e32209",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/beige_stone_metal.json",
+    "sha256": "4f50d7d824b2668c68e1b1d282e920ee454d6baea9f9553c988fc22e1344b05c",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/beige_velvet_block.json",
+    "sha256": "6e22dfde461fd0722090daee5f84a01543e44e9e809131f4152a4562d790128e",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/coral_cogwheel.json",
+    "sha256": "68bada596d6f056e30e7c402b0192b7bed67aee79992db2b72b0d8f54e2f01f0",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/coral_container.json",
+    "sha256": "e7e6c4174dd04aca35b820ca9ea28e63f7d13f1254bf6b8e9e5b001cb617576b",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/coral_dark_metal_block.json",
+    "sha256": "11f4569d108dbe5f0813556649852b1801a299eee4d453ef6e0327686815aaa0",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/coral_dark_metal_plating.json",
+    "sha256": "12d5e57bba715046828afab0acb85a6740a71946bfa912b6e662dd183484a47a",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/coral_display_board.json",
+    "sha256": "5bd495d4cd59d31581c1ce351921361c1d3ca6e83b187a1790190de87fb5d949",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/coral_flywheel.json",
+    "sha256": "ac45e3fd0fa7485599fd85ee0a0bfb425abb1d1abc69c52f9aa01ffd69ba5864",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/coral_industrial_cogwheel.json",
+    "sha256": "03d36b773b4b3ea14bb03206b911cae80e039ef05e24763f13ce4dbbfefd26f7",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/coral_large_cogwheel.json",
+    "sha256": "81cf067262c56455a5abd82b92bb82afdeb84ff98a1099236dae01348f42ba98",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/coral_large_fan.json",
+    "sha256": "e7791146b3becd8068037ca26e710f5fde2eb60d0995b6fd064e2d38c8996380",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/coral_large_industrial_cogwheel.json",
+    "sha256": "fae4b8c6ce86f4c0d087532f5a9d99eea42caabe07f2c32fd74cc0ccf9a65a55",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/coral_large_metal_girder.json",
+    "sha256": "a2878577dd01c2a205e07cf1bdc89d64b287c2790ea5942fc7ac55b99a43a660",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/coral_sheet_metal.json",
+    "sha256": "f29b81605f3306c9ed5116b4a729c0d8a8ed01344207699e19ab358b354c7d63",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/coral_small_deepslate_tiles.json",
+    "sha256": "58e2a2dcdc0a612339b14059fc924b76e38fdeaf7b21cd4a1c79553ea0110699",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/coral_stone_metal.json",
+    "sha256": "a0506c960259fb606edf0eb3be9ede130df61891e9c19f52907bd5d8f2be62f0",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/coral_velvet_block.json",
+    "sha256": "6784f7d8c47f6fccdf52ee20711a7a5211aec5f9eda3b1003f3bc7e7b5f320f6",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/forest_cogwheel.json",
+    "sha256": "548faae5b52cb4e92d11bac96b8ea4f1c1bd6fa163a71fde66b7d5f2410fc4a3",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/forest_container.json",
+    "sha256": "627bd9651fce9d63c7c7a17444b949e91b400e21358289d9367cabb4e6c4d097",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/forest_dark_metal_block.json",
+    "sha256": "dfaf20f36199cc418aa82bc1384dd1d57f973aaa67fc378109fb954a2f7385cf",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/forest_dark_metal_plating.json",
+    "sha256": "5792ebd417b6fda86fef54836dfb69afcba6d73ddd27560a6321f5d50e9d1c6a",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/forest_display_board.json",
+    "sha256": "a937b20f0e237abcb6b78c18ec6c7ecb7f8257eeb8a3f9608dec4ea4b16f9b3f",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/forest_flywheel.json",
+    "sha256": "3293422c8f363fa19354bfd99a92c64cee915a81c03cacd70adbfc5db87d915c",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/forest_industrial_cogwheel.json",
+    "sha256": "492c6f2ffde282e3c4b59e3bfaee9dd7ca2df40f4e31d2df49575cbcf8a6d366",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/forest_large_cogwheel.json",
+    "sha256": "5515c853b265dd8fe2189445a8bb30aa3384c68f42b0f3b54d0622167368debe",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/forest_large_fan.json",
+    "sha256": "da5d18f247369b512971817d7186b8775d843796c35d07baede1368957bc259f",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/forest_large_industrial_cogwheel.json",
+    "sha256": "e3458ff8aae7890b50ef5b547d9fdfcaf6c34134ef6cc985b076632d8f2dd875",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/forest_large_metal_girder.json",
+    "sha256": "1b89b06fd2290f2cac3e7c3d9a1198194e04deeecd78be3cc02b0bca1c36714c",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/forest_sheet_metal.json",
+    "sha256": "58fd954bf4f1b0c58a906afe69a8c6b2a4abe942c17a7e2fe099735a6f656549",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/forest_small_deepslate_tiles.json",
+    "sha256": "5f381cdf3edb3a759a0f38fb72fe9e59326d451672cfaf60e22d23f023de26fd",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/forest_stone_metal.json",
+    "sha256": "260539ffdd37e0620806a16f0d4db5c1ba3ab6df532287e2658e3523cf52f3a5",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/forest_velvet_block.json",
+    "sha256": "dc0d8125e4d0d80835a3d65496d06599cf4ed4188e5a318d68461a6ec5c0f93a",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/ginger_cogwheel.json",
+    "sha256": "6bd476ff5e76c2c9c29b20843adf1e52a7310c73c464d8bde8e71160dec3c297",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/ginger_container.json",
+    "sha256": "d452d1a31cc7c6afa56056069982b4de60a692c99130ebbc7123bd908efdecbe",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/ginger_dark_metal_block.json",
+    "sha256": "78640452e0eacb99bc43b20bb5b45abf53f276a5e2f01bdb133e4b36067492d6",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/ginger_dark_metal_plating.json",
+    "sha256": "527cd59d38b35c91eb236e4a91f22a8baf5773f21ee8217c798a1b3c69785823",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/ginger_display_board.json",
+    "sha256": "579ebde60b33af9e3c3129a2713d0c0fe8335b3bdf0390cdd7d1b66f9b08c51f",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/ginger_flywheel.json",
+    "sha256": "556992d7a94b7a9cdc84bf0cd8ddc25322a75a9ff6a93da2d7df83a59113a7f7",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/ginger_industrial_cogwheel.json",
+    "sha256": "d881ca9e5b2f8514dbb4206f1c576b86ef3fe414212991cbb657132b5360bc8f",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/ginger_large_cogwheel.json",
+    "sha256": "5d2e09bcb870a8f2d6e32a23c8e58c407cc68e9a10d07afd7b295e23fa606cf5",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/ginger_large_fan.json",
+    "sha256": "1838f78cdfb673f24456a696e61b6862e35e6e2dbe13a9c83b38038ee40df781",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/ginger_large_industrial_cogwheel.json",
+    "sha256": "84624e042151f0bca1e03a5f0b7dc274c50f2b1183de3d0c2f171faeed4c6ec1",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/ginger_large_metal_girder.json",
+    "sha256": "b8ccab31ed3043cee3445fe4d4242bd1df1916e7eb8ba6a5b03d5e4a00ee58de",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/ginger_sheet_metal.json",
+    "sha256": "2232febe49230b31ccf4ad9d8972eca49ae5fb9fb524586c87979212b97b639d",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/ginger_small_deepslate_tiles.json",
+    "sha256": "cad23d914cc7d803cb9644cfa62b3399e08fd335b4109c8102912809da073f9b",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/ginger_stone_metal.json",
+    "sha256": "6c6abc1a3517c98bdffcdf639b3ddb41f4bf5e89433b2ae2f5e3a3b0b7bc9f4a",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/ginger_velvet_block.json",
+    "sha256": "92f8afc3ff0bea39307208790153e12afec098f9e1e68412d03e48324e7245c6",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/indigo_cogwheel.json",
+    "sha256": "a8441070340482809131f4df751c8338cc933ccab8d3c78541fc3f4f4ffd2300",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/indigo_container.json",
+    "sha256": "b8c272dc3b5fc750ce01e7d5389a2951ad483c8925d6743ddf45485cfc8851ad",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/indigo_dark_metal_block.json",
+    "sha256": "18f2294fe238b2004de7a18d3fc0b564f27fd43d46a905e1374a5717fa261804",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/indigo_dark_metal_plating.json",
+    "sha256": "433120d3b63b80b1a7d28fd8517538a405abd866986108e7ad1ba73db341ed60",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/indigo_display_board.json",
+    "sha256": "2c22dee41b699a181ad205a4fc37f7bed92975da664e3e0ecfc7d388cb05a356",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/indigo_flywheel.json",
+    "sha256": "8856dc71038ad5405be5406351f2432d575340cab41516f6d05fa194d9d5a2df",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/indigo_industrial_cogwheel.json",
+    "sha256": "a79fd929246836c75f6c03ada6c96e8d4fea5bfa9a55795a4c0835e0c6516a0a",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/indigo_large_cogwheel.json",
+    "sha256": "fc581d6f7fbd10dbe90e84a524298ed1af571994fa93ac7eff6978ed9dccf206",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/indigo_large_fan.json",
+    "sha256": "232c52ab1037392123af6be7268e27a3babe2b887d04e5ba3dc88f858734c449",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/indigo_large_industrial_cogwheel.json",
+    "sha256": "4d0b2e3b3432baeb8042f36518135245f210cca4f8539af950e302a4f45ea200",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/indigo_large_metal_girder.json",
+    "sha256": "2957fbfa560f5e78ec371d6db9e365a73b94686a1e7d961faa3db221652475aa",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/indigo_sheet_metal.json",
+    "sha256": "af91e8f180e53ca0764d8e39b8c9429705453607c3c1c414313556196ba6f294",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/indigo_small_deepslate_tiles.json",
+    "sha256": "5246ecaf5a3b49e345eebaa4b5b4bfdde009611afa2947b279f5583b88ce4917",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/indigo_stone_metal.json",
+    "sha256": "7638a1c39efd3f9c1e7c4e7df9afa9ec408e226f43e0a9a48eb3fe63971ca0f5",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/indigo_velvet_block.json",
+    "sha256": "3dc2b46b23418e4da87bcf488eb842c8e17db0782a25fbcd1cb6774d30a057d6",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/maroon_cogwheel.json",
+    "sha256": "153d5d2b65b1a064825ebeab588798fb5981881e2c57f36b9e0aa46a8c45488e",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/maroon_container.json",
+    "sha256": "07eb71af984c258abbf79c702fb1f111ab77dde1fb43541a80a5f53796de9c0e",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/maroon_dark_metal_block.json",
+    "sha256": "d0283384407c68d45ad2661edcdf071cb681b442effc70e9cb02294e6a0278fb",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/maroon_dark_metal_plating.json",
+    "sha256": "ea612721aeaa9c628e1c7ab4ea860c6ee2a8c16828f962e92f08beedc8b33d37",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/maroon_display_board.json",
+    "sha256": "30406b6fe8a02ea3a75a5e251c368f65ee5fa48957326326a94b7de2066b12a1",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/maroon_flywheel.json",
+    "sha256": "153a4f4f4c7a860daaa99b9bcb7012b1e64ed5824ff71f3070ba9324bfa7c50e",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/maroon_industrial_cogwheel.json",
+    "sha256": "2524e79f0921b58ebf965523eec5f1b3bc000622f7ea5c6e94b6be6c3eac359e",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/maroon_large_cogwheel.json",
+    "sha256": "375c14141d74f358114218e47587ae18205e9e1df950888fca43d3f20b7872fd",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/maroon_large_fan.json",
+    "sha256": "c5fcf29292851424db41a6d971a0eb3a67c92f2ce63172d3a8ae6e92fadbec6f",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/maroon_large_industrial_cogwheel.json",
+    "sha256": "468b2384e9e8872870d585d464a1ccbba5e1324e505ea08f26a708ea3c918c34",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/maroon_large_metal_girder.json",
+    "sha256": "c2399730ad7d831e0a6e6b31e593306249ed59df8692990b27483ff60ebb81c3",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/maroon_sheet_metal.json",
+    "sha256": "06bac21457a72d4c1b2a4c0e95d9c768b50656ba4b97b79c9035cb655d1b0de5",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/maroon_small_deepslate_tiles.json",
+    "sha256": "15924f438308ba99100599119bab68da4cfb910ecb2a5d98b4e31ed7d8ae8673",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/maroon_stone_metal.json",
+    "sha256": "e2dec17d8bd497fa81c49b2a468970fef0ab94996d99dc096cf0089b2e190ff3",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/maroon_velvet_block.json",
+    "sha256": "f5665340b44449d907121e87671502c4c881986ec7588ba8db2ddb1a2811aec2",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/mint_cogwheel.json",
+    "sha256": "cc9246780c3f61eb096363d6c33ecf79102d5a3f7a6f41af7f0ecd1006df608b",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/mint_container.json",
+    "sha256": "04525c3cc9c06d9b0f0feeece0ff2313dd57ca40d11d03155432e8c02d0e13dc",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/mint_dark_metal_block.json",
+    "sha256": "f8220d940098fb4991c6118bf8416987d5e84b3e7a9d858651893c8b98d5eb1a",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/mint_dark_metal_plating.json",
+    "sha256": "e28d8145fbe395cdd8001db284bf5a01f0635ce1fffd09831cc3ce798b9720a8",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/mint_display_board.json",
+    "sha256": "f45814c986e52af07d3d3b69391f2cdff3fcfea931a7afff5895ebc4b22f7234",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/mint_flywheel.json",
+    "sha256": "7e010a1d1c087b2bf15c212ddd2f4761ec43544434a82bca14e2b5e019ac0413",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/mint_industrial_cogwheel.json",
+    "sha256": "1662c92acfd3d26214c5373c0263c5a51617dd0c6c10958af55cf0cce623d7d6",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/mint_large_cogwheel.json",
+    "sha256": "0ec9c9b7f2407866cee3833b7f7c3acbfdf0f73541085782ad821954f2824e40",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/mint_large_fan.json",
+    "sha256": "1c145e568c0c21702761dd342208f5f9038f63ea242de0f2978cc95b5b9360aa",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/mint_large_industrial_cogwheel.json",
+    "sha256": "0931e7dd5454ffbf797d681baeda006d516d9402f8e58ff0809ce4f8b7fd7e40",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/mint_large_metal_girder.json",
+    "sha256": "74c3be357b0a1f9e3ff32cd559130d1355ec622a4ff9d4e69d0f85df2d88b95b",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/mint_sheet_metal.json",
+    "sha256": "a2169bb7420960b878a9d717f2bd462b320720ddb86d0d36589f12d3ece7591d",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/mint_small_deepslate_tiles.json",
+    "sha256": "dd3fac0b8ab83a3bae568400a79756dfe6cf97e26169fa92b9991d87805cd5d3",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/mint_stone_metal.json",
+    "sha256": "53e98f5f5f1cff5d1561d4c3d652f79955811aeb085a4f2df94ecfdb86058c3f",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/mint_velvet_block.json",
+    "sha256": "bab18ab0b3002b4740788d200a0462b64db7c5c3e6d99e7cda9f6f5bb2e28193",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/navy_cogwheel.json",
+    "sha256": "252e5bb22254f92ee8f5053493db45463ade978f586adfd3812807df8b09c373",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/navy_container.json",
+    "sha256": "e89034648804705c5beeaa8839ba44afab41557c19df994989644ac99749894c",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/navy_dark_metal_block.json",
+    "sha256": "a390faed3e0458d229ed718b6b58393d634381fa5c12298555e534d788e63569",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/navy_dark_metal_plating.json",
+    "sha256": "5fe1bf19a17d14ea1f1a99db93d2f1d3774b7306522062988eecfb9d89fbfc31",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/navy_display_board.json",
+    "sha256": "4a800973a84e3beb07ea78c678a9fd0efff3c7fb2987d850f0f8ae3d55c42eba",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/navy_flywheel.json",
+    "sha256": "cdb60882a58aa17520eebce24fda062dcc9c2c1328e7bd88df5e8980189e63ec",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/navy_industrial_cogwheel.json",
+    "sha256": "b66d6468b6f6b3066e0e92a928ecad1726ccc06f0695d2000626313c202983b6",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/navy_large_cogwheel.json",
+    "sha256": "887378d72cde553b2641617842499187c09df1c17e40179a3c052ebccd8e4ef4",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/navy_large_fan.json",
+    "sha256": "81104e5f9ff1bd4af2d50bb1bf30e408315e7db8287882dba786cfb1aa19178a",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/navy_large_industrial_cogwheel.json",
+    "sha256": "904296ef549915e5e3f35047615dd2e723650d553d19e391b206a7b47a860fa6",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/navy_large_metal_girder.json",
+    "sha256": "ca8eb78d477aff6ffebdbd0f0746525e644ae55fd5336572d60a9f1367aa8655",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/navy_sheet_metal.json",
+    "sha256": "1c93e1322a3a2ca0576582baa629e3a2b2b7b4b3bfbae6a8ae520d9311d384b3",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/navy_small_deepslate_tiles.json",
+    "sha256": "8ec31e5337fba09a02be345db6947634d8d082963886fa9d50fce19c476446d8",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/navy_stone_metal.json",
+    "sha256": "691f5d8deb2225411c2ac9d0bf294979859341fdcdd46625669fd2df86ad59ef",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/navy_velvet_block.json",
+    "sha256": "82adc61b011f7a29628012d4638b0adbabfafb099bf927fc4fd902e811922a8c",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/olive_cogwheel.json",
+    "sha256": "0689fc532c5a23712d75f0e58e3a7acf63d88b44713ec5fa9e053474ac6fb5fa",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/olive_container.json",
+    "sha256": "e4b1ecf7ead2b1a865d9b98a6af66a730088368e87bcf6303da618b9f9718cf3",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/olive_dark_metal_block.json",
+    "sha256": "5b6266978011ccb16a3cb6255b695b59dbc72c507771d6ddfdbf9006ca6266e8",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/olive_dark_metal_plating.json",
+    "sha256": "62d2e1db5d79a55083d1c2408be4cb7159c20f13f78d6c7d5db22922ede4d017",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/olive_display_board.json",
+    "sha256": "d730bdb93ce16d48e9b7800dfb65d2ae2463b2e8d116cae627a5391f91e51135",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/olive_flywheel.json",
+    "sha256": "f0220286e681f0c55b12a265095d2d966f13fba0a12782b9b7852ef32abfcb80",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/olive_industrial_cogwheel.json",
+    "sha256": "7c0dea374e7be057744c9d079780d62ab8d33ca6ee0b5373d64c759e430153b7",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/olive_large_cogwheel.json",
+    "sha256": "4fb7a2df8ab36c57de49f8ec7b0f18d9e361f66e303b49dc620061d31b8405c5",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/olive_large_fan.json",
+    "sha256": "611998df93e1dd1053cb7886f62432f50b6b0874e649ba8781d7e7341f8ab3a7",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/olive_large_industrial_cogwheel.json",
+    "sha256": "81ec06fb4fb648c03496be707c9dea8de2d6213088e745017eb7373aa808155d",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/olive_large_metal_girder.json",
+    "sha256": "9926c8913c1136913cedc5e2115b291f5a946ccf2129ea9b1f135fcc5420f0c4",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/olive_sheet_metal.json",
+    "sha256": "143703a786651fb9d3b40486427b887f513f41c158fcd65541e656f76bc40d0b",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/olive_small_deepslate_tiles.json",
+    "sha256": "b7dd2725661acf68119a3317558e17b10220d45fb02097629da8960bef882a61",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/olive_stone_metal.json",
+    "sha256": "084872b6840835755fefeb95b7bb043622ebf669db93b3cf20daeccfbd7d3034",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/olive_velvet_block.json",
+    "sha256": "db4b5e1a3da671d834b05985120cf41c56c00d199435d3a82e82f29e1201a39d",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/rose_cogwheel.json",
+    "sha256": "cfe253e8b4e7845b77ff3d95efea491d5cdf913e44e35c8f3eb276aea47dbf59",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/rose_container.json",
+    "sha256": "5a5815c0760ce241afa4d069555ff9fe5d95dee53e7ffe7d18071052d2ee7e5e",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/rose_dark_metal_block.json",
+    "sha256": "5432059f06a61f68f2fd12a8a2f516174a4be4e012f4c862f6f03aa2f8a0829b",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/rose_dark_metal_plating.json",
+    "sha256": "a6263781619f39db8ff45b0155b68a7a1ba22c683dbfaa4b0cc825a966e629eb",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/rose_display_board.json",
+    "sha256": "5d88299e8437c88273418f60f30fbba82ecf1a0e5bef10da0ee3064911f5c9f3",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/rose_flywheel.json",
+    "sha256": "f4bdbbc43dc44af1d7cfa447033aa9d3b4947042eaaae83279bd207838124797",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/rose_industrial_cogwheel.json",
+    "sha256": "aea7959a44cf33f6e3d152bfb54d1413eff652425dcf36417c0e1d3306362ac4",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/rose_large_cogwheel.json",
+    "sha256": "53776991dfd6eac0cb9aeb8f70d4fff5b822c4369a20c069c6d27e374c7701a4",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/rose_large_fan.json",
+    "sha256": "a861962bfb71de6852a900100b1767a86c73dc0447f10a4bdc553f76c18ee453",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/rose_large_industrial_cogwheel.json",
+    "sha256": "d4ab650b870561362d33b02d0ab6d2a2e10cf372aa5c6abb74723d04c16036c0",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/rose_large_metal_girder.json",
+    "sha256": "8f9436215032d27dd72863182cc12b92161ef9d02cc2559c6ca9ff3be7d799fe",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/rose_sheet_metal.json",
+    "sha256": "7cc73bd18b860bea85fd8f1e85636382c6b655da4414f52471931291625926f4",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/rose_small_deepslate_tiles.json",
+    "sha256": "f9ec950c6c563d6b8f60e3508a82298ba6bad182f93927c5aafe48f4b0ac415b",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/rose_stone_metal.json",
+    "sha256": "3875e4c17c9e167f889d2a01402b8b6bf4c285f3e6a51679f53b8d42d49824fe",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/rose_velvet_block.json",
+    "sha256": "8097a02735887b7526a5dcd384165830105c61d79d577d676de15ac8dda2e579",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/slate_cogwheel.json",
+    "sha256": "fcf1f9d89117d4c90f83ac5b2da531460d3349c69a118399da8f92c415c2f7a6",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/slate_container.json",
+    "sha256": "dcb7357a7bb282f6c4f41027c4752459b921a4eb6f412b4b89786ff5f76640c2",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/slate_dark_metal_block.json",
+    "sha256": "acf5ef7c555fa4b1a1b8dd91cb0a4fb3581b12f987dae2c16b4ecb743f275c39",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/slate_dark_metal_plating.json",
+    "sha256": "38cf43ced51e521224c3bb28d8a43d759fd573fb9ba0c799baab997ed188bf63",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/slate_display_board.json",
+    "sha256": "71d08cce2d155c7203b758437d8c744b90a23ee24dd93844c6644713a0cd472e",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/slate_flywheel.json",
+    "sha256": "3fab9b2500bcf18f93e7e5d651084dbdbd0553dc07cfb61af3aef19bc6ddfbd6",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/slate_industrial_cogwheel.json",
+    "sha256": "0f97e0be88f806f28aa2102b0038e0839317dfffe1198130c258877562e3af92",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/slate_large_cogwheel.json",
+    "sha256": "3a9e43cda47533140b9be4ad9ab138a521fb7ccde63eb9664306e11714ed9f4b",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/slate_large_fan.json",
+    "sha256": "246a7bc87712a17f55102be72183a04ea026d62c90b8ae1df971e0656c8196eb",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/slate_large_industrial_cogwheel.json",
+    "sha256": "a61610275907ad5e83b9cb6ace2c86d21f4bee3009524af81b149b14b3fbf004",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/slate_large_metal_girder.json",
+    "sha256": "c2490a31ae214bd4e10276e40191e5f6cca0de133da66a0f735173e2c5ba024d",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/slate_sheet_metal.json",
+    "sha256": "e972453d1cccc59501e968cf82580c7544cf937dce15d17ad356b11242a30db6",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/slate_small_deepslate_tiles.json",
+    "sha256": "36bf54d97911ab622156c46f1c4135ba23fef13c271e70042df616ef5c0ce6e2",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/slate_stone_metal.json",
+    "sha256": "f48c691150ffcabb6dce3b3dc82c994bf684a8b02d0812e174eca225c879d7ab",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/slate_velvet_block.json",
+    "sha256": "f4a944cb03997acc0e3dd52be098816e11d165eba044738038ff3795ad7e6106",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/solid_amber_container.json",
+    "sha256": "a5654a0d87d400b619571a05b2e301974a4512f67d479d9998d0afcdb97b9507",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/solid_aqua_container.json",
+    "sha256": "d2c00a2ebbd62a68bac2043e199f1b2a21b8134e4ba9ffab76122755c534cfcd",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/solid_beige_container.json",
+    "sha256": "85d144481621d0b577a7c31beb8943c5d42ba3d73f187d79a359cb3ff62ff7bb",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/solid_coral_container.json",
+    "sha256": "bcb7d7718e2ed8d1ba4d1beb283785372e40ceca851dbd651046358597ce0bf8",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/solid_forest_container.json",
+    "sha256": "9781ad1eb51e930f1e75c118ece47bcd6544cb007186ac76383e3f2cf274b446",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/solid_ginger_container.json",
+    "sha256": "b5fae11eacf38379ecf3ac4c4357ac89426d2f80a7b88af34fc622aa856fb343",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/solid_indigo_container.json",
+    "sha256": "03f2f641fd5749e3eaab69f51c66ef3de4b06a07d46de68dd930e6d673b9edc4",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/solid_maroon_container.json",
+    "sha256": "32944f4316930eb5cb448b526b3b7ad7a60d3dacca7fa604a4a331aeb1350c7a",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/solid_mint_container.json",
+    "sha256": "40029a08c2b319875282b7415444d6bebef1bd91171edb50281857213768a392",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/solid_navy_container.json",
+    "sha256": "e1f722d1c4898a81329a22565fd502fdb4203d61dd176c8285e0b2a4081ef93c",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/solid_olive_container.json",
+    "sha256": "225f3aa0c1a758a778fea06e1a3480f1f3dd9b16271413121af4fdf51e7314f0",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/solid_rose_container.json",
+    "sha256": "838954d92f1e412f12a7c74af8fe48178893449e6c19c9b9c67ba0fa8dcb0c2e",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/solid_slate_container.json",
+    "sha256": "5f919a05095e3beac04f2e5a9721d2aa53469867332e188283be35837bdb5d5a",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/solid_tan_container.json",
+    "sha256": "e325a9de9c0ee89075cfe49a686718dafee270f62ce1b88411b0ec9f9f6d1c72",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/solid_teal_container.json",
+    "sha256": "193b97d5ce74ab9000eca56120d47fff95f6f461171a342615d78f61c232bed6",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/solid_verdant_container.json",
+    "sha256": "7ab8b25424c100054a1473eae84d54cff9cc3066c188f8e802286b30a351ff04",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/tan_cogwheel.json",
+    "sha256": "12e7210b9d70d19c27cef7df077b8048fed50e86d41257333abdcee68b1ef89d",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/tan_container.json",
+    "sha256": "ca6921c244058477d86b12b88144ea302f740dac8103fc404ffa7ebce3888155",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/tan_dark_metal_block.json",
+    "sha256": "8652e92dfc62ebfd706c5e0cc17804dca5d98e21fe1df19e077ca8223d5766a2",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/tan_dark_metal_plating.json",
+    "sha256": "cd757fb6064285390369e571bb92aa09af426376a2450b2dee512e44a1a758a5",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/tan_display_board.json",
+    "sha256": "ac4d43016975b80e3f64074668747bba7c8f75eb29a3550fcd7aa00e36e2359e",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/tan_flywheel.json",
+    "sha256": "e8334ecff498fe836e902896a206de974b7b502be2b7860dbeb768e28f8ec99f",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/tan_industrial_cogwheel.json",
+    "sha256": "ab4f45b515d8b7084030837781d7f202b7bf874d0d5b9bc147012a0302a57e40",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/tan_large_cogwheel.json",
+    "sha256": "3a50e6e3213c16aeb5f40a8d4d4a2e38742a1527946c38c4b7608d8809971977",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/tan_large_fan.json",
+    "sha256": "49b5e858935f88a07c16afbbc1d0a2f291b06af7d6e21e8030ea485512bd30a0",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/tan_large_industrial_cogwheel.json",
+    "sha256": "1a687698d9adf7c54bcc0efc4fef7e1701e2bbde77f2c18ec55e356e014f6eea",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/tan_large_metal_girder.json",
+    "sha256": "03971488630a0ec9b01cf253918463563fd5354932cbc907aa7df7c42dd66658",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/tan_sheet_metal.json",
+    "sha256": "92153b9d17260036bcb7e18bb6af5e07861e2bf7943e27991bbfe79ba7f0c740",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/tan_small_deepslate_tiles.json",
+    "sha256": "28d53f59107c3349acc265351a071e811e2d904da13778468a9f0e5b86ab3f49",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/tan_stone_metal.json",
+    "sha256": "d2f88c111f9d66ddabb308597912f2bd2a8d54bc536ac6f95ad3252031ac819c",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/tan_velvet_block.json",
+    "sha256": "da8dfcde61ae318273cc384d208c0c78b4ccdcaf396e461dc14943d967e07ac7",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/teal_cogwheel.json",
+    "sha256": "146324d358d9ce5e913410e27bbdef4d93875dfc5d08068df711a33ab9a14271",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/teal_container.json",
+    "sha256": "03f9933f594e559876e86f5927b4b4890c6c8147c2377ca9569b1afb65a4831a",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/teal_dark_metal_block.json",
+    "sha256": "776159eca808416676a2c026d648fe22ccfbcf5613a050ec2954582ec02dc12a",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/teal_dark_metal_plating.json",
+    "sha256": "cc566cb226a6cea3cc9b0f305b359b40bcab8152913f4876cef0461f480fde7e",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/teal_display_board.json",
+    "sha256": "30d07efff7862ac3cc0a5e83404b2c27d7567b2a1f43e78d3db84103e4a37584",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/teal_flywheel.json",
+    "sha256": "08606afc42da2c50b4f4bdd3ae0c8289b8438ceb36f508530f6d6358ce389cad",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/teal_industrial_cogwheel.json",
+    "sha256": "54ec8499684d42676e643b3180ba989d2d4fc851adfa1dd4baaf8c43432955c5",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/teal_large_cogwheel.json",
+    "sha256": "e02b19557b3726c9573047b82625b2559ad7c9412153c22970467eadfcd0defb",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/teal_large_fan.json",
+    "sha256": "c5a32187e20d28ab870bca324f0abedb8f581c397ec7494ae3d12c470ae6cd34",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/teal_large_industrial_cogwheel.json",
+    "sha256": "2734b33a8c036699e3f6fcff612468c0ec34f2f6014a15b8dd6893598a927ec3",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/teal_large_metal_girder.json",
+    "sha256": "e41f1426e20509aea7a0b873593d067480b3e986a574a6b555d9666cb8325179",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/teal_sheet_metal.json",
+    "sha256": "b490c4944b3934fffb0c65c4b345c3751c54810d2f69337b06a8967fdd922ab1",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/teal_small_deepslate_tiles.json",
+    "sha256": "1c21456a95599ee1a4efb7ea56fff34cea6e56f6cd7e8b73ba8e576743469b77",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/teal_stone_metal.json",
+    "sha256": "7c4d795a94bc83a97318bbc1762ea2d327d1fb75138e11667a5e718a771a541c",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/teal_velvet_block.json",
+    "sha256": "df5fd4573bc3aa3d90cb532a5c0bf0a6dfc62f8d74ed94295d4ed28b658e7c2c",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/verdant_cogwheel.json",
+    "sha256": "b75daf50b60950aba1c070d099380d0318724266e6aedd48068b2a53b4e9df82",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/verdant_container.json",
+    "sha256": "36a7802bf5d3d002d5fe4aa5a5f505bca03bce8cb659d4b9762e4a6abe1e43b8",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/verdant_dark_metal_block.json",
+    "sha256": "fb5fd32df4c6898c0178ecba0faba15a6a99563f860437005751a4ff4b73188e",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/verdant_dark_metal_plating.json",
+    "sha256": "289ec8f183b9274aee461c5e6d767bad3f6884656ff115bb58f50ad6b6e54a90",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/verdant_display_board.json",
+    "sha256": "acbe37408ac21d0dc5ad9e3398969df8103b3d63a0e20e1611d5e48797c39269",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/verdant_flywheel.json",
+    "sha256": "140bd2684195734e1cd335734835d644b3a6beb2ea660427f96658cc8f87876b",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/verdant_industrial_cogwheel.json",
+    "sha256": "7dfc272f159291834be74ffab1a17231495111175a6e64828c096c195918b659",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/verdant_large_cogwheel.json",
+    "sha256": "a1b127ab9a9e829bb4bfe6e961add0200e4a4734f740738d77f01f3ff46abd3e",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/verdant_large_fan.json",
+    "sha256": "8c29835d137b1663166a2af472ac9e291a38ee21c1eff973ea11ee4934d6c6e4",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/verdant_large_industrial_cogwheel.json",
+    "sha256": "b9f8a2995736d70929524a9f3e7236ac1ebbbbd88b59bc4321a65126e1079918",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/verdant_large_metal_girder.json",
+    "sha256": "968c81f732fda82be2068059f1e30c6a03a60e06e30f448cddd5492a0306046b",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/verdant_sheet_metal.json",
+    "sha256": "f7b220632ecec777a042b5319246728d7dae63b874edea2c52bcc86dc039923a",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/verdant_small_deepslate_tiles.json",
+    "sha256": "27577ea1787b6b81c31959889fe7c923bd64b4d887a45c732b94a4e1869d005a",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/verdant_stone_metal.json",
+    "sha256": "10b7ea145ede26565ce6d19e6e57abbad4545bfd7a29f7c020fe08dad0146a7f",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "dndecor.optional_loot_items",
+    "mods": [
+      "dndecor"
+    ],
+    "resource": "dndecor:loot_table/blocks/verdant_velvet_block.json",
+    "sha256": "0e0b0384b92b7dcd6b5633f84102bbfd272942e2c1e9cbbd564328fff1e21904",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "create_connected.optional_loot_items",
+    "mods": [
+      "create_connected"
+    ],
+    "resource": "create_connected:loot_table/blocks/dye_depot_amber_fan_dyeing_catalyst.json",
+    "sha256": "c7a689adc145d0823098c32f610967cec5bdf75d1a5649f7b8c4709a727146a5",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "create_connected.optional_loot_items",
+    "mods": [
+      "create_connected"
+    ],
+    "resource": "create_connected:loot_table/blocks/dye_depot_aqua_fan_dyeing_catalyst.json",
+    "sha256": "67035eb2b9b429370ff8d688cddd61aa1168367f889dba2d8f398e7782e5cfa3",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "create_connected.optional_loot_items",
+    "mods": [
+      "create_connected"
+    ],
+    "resource": "create_connected:loot_table/blocks/dye_depot_beige_fan_dyeing_catalyst.json",
+    "sha256": "81727c30bbe099b7d0a7220223dd81ca78cfd54bacb8c4dcced02464af06aa1f",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "create_connected.optional_loot_items",
+    "mods": [
+      "create_connected"
+    ],
+    "resource": "create_connected:loot_table/blocks/dye_depot_coral_fan_dyeing_catalyst.json",
+    "sha256": "c8088fda4b470cf43fbcc070ac4569bdfa09ab15b2f1a52eb3b4e6a3a9e67934",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "create_connected.optional_loot_items",
+    "mods": [
+      "create_connected"
+    ],
+    "resource": "create_connected:loot_table/blocks/dye_depot_forest_fan_dyeing_catalyst.json",
+    "sha256": "ad07d9eec003cdc0465e7159e7c25ce9985fb400be478477b3b3ead97999e7e1",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "create_connected.optional_loot_items",
+    "mods": [
+      "create_connected"
+    ],
+    "resource": "create_connected:loot_table/blocks/dye_depot_ginger_fan_dyeing_catalyst.json",
+    "sha256": "e4b4e4b95c65a3e38adaadadc0a7cffa9d0da2d1b460b25d91b665536ad2d259",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "create_connected.optional_loot_items",
+    "mods": [
+      "create_connected"
+    ],
+    "resource": "create_connected:loot_table/blocks/dye_depot_indigo_fan_dyeing_catalyst.json",
+    "sha256": "82e9fbd02a2cf35088b0d0b6d0cbde758936a11c7cf68e3fbf8f8e6c6af5dd17",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "create_connected.optional_loot_items",
+    "mods": [
+      "create_connected"
+    ],
+    "resource": "create_connected:loot_table/blocks/dye_depot_maroon_fan_dyeing_catalyst.json",
+    "sha256": "7e26132cbc40d3b2576e7fc0426e459d44bacbdb2101f07626604b39981ff7c4",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "create_connected.optional_loot_items",
+    "mods": [
+      "create_connected"
+    ],
+    "resource": "create_connected:loot_table/blocks/dye_depot_mint_fan_dyeing_catalyst.json",
+    "sha256": "6d2badb335f9e5755247a734090c7f4a0eb8df6de6ce85c81db2ae991c5ad4c1",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "create_connected.optional_loot_items",
+    "mods": [
+      "create_connected"
+    ],
+    "resource": "create_connected:loot_table/blocks/dye_depot_navy_fan_dyeing_catalyst.json",
+    "sha256": "618fc3feec9ed877027cb62fde20f2c6c2635e121302c6d6e15830b9815ee361",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "create_connected.optional_loot_items",
+    "mods": [
+      "create_connected"
+    ],
+    "resource": "create_connected:loot_table/blocks/dye_depot_olive_fan_dyeing_catalyst.json",
+    "sha256": "49cc0cc6e42b2e73ce0ab48950c34db0d3ca02caecbdba5844372cbef51324f2",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "create_connected.optional_loot_items",
+    "mods": [
+      "create_connected"
+    ],
+    "resource": "create_connected:loot_table/blocks/dye_depot_rose_fan_dyeing_catalyst.json",
+    "sha256": "f106cdfa348f90ae566a9987f4d9ccf0f6f20527c6329cbeb0be2f919011a661",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "create_connected.optional_loot_items",
+    "mods": [
+      "create_connected"
+    ],
+    "resource": "create_connected:loot_table/blocks/dye_depot_slate_fan_dyeing_catalyst.json",
+    "sha256": "0047ad9fa3de1d5d39a0954762c1c7c38c9a7c88386516ec69dfed7df072871b",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "create_connected.optional_loot_items",
+    "mods": [
+      "create_connected"
+    ],
+    "resource": "create_connected:loot_table/blocks/dye_depot_tan_fan_dyeing_catalyst.json",
+    "sha256": "af194773271381fcbb1ccf5307bd7a96ce8f751b68ae7bfcf632cd45dc10dd29",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "create_connected.optional_loot_items",
+    "mods": [
+      "create_connected"
+    ],
+    "resource": "create_connected:loot_table/blocks/dye_depot_teal_fan_dyeing_catalyst.json",
+    "sha256": "1de946c2587f3ec2fbf6a1ad776bdf1af49a07ad9efbf760133ab1aa7f7bab81",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "create_connected.optional_loot_items",
+    "mods": [
+      "create_connected"
+    ],
+    "resource": "create_connected:loot_table/blocks/dye_depot_verdant_fan_dyeing_catalyst.json",
+    "sha256": "f71fc5faad0806152d3ea92fb7e88bc00abb64bc7176a7db275b9a0deda265be",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "createbuddycards.optional_loot_items",
+    "mods": [
+      "createbuddycards"
+    ],
+    "resource": "createbuddycards:loot_table/blocks/playmat_create.json",
+    "sha256": "8b4570ba63f0bc89b7630df6e282c16417d6fb3a897658609a8d87936427247f",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "delightfulbuddycards.optional_loot_items",
+    "mods": [
+      "delightfulbuddycards"
+    ],
+    "resource": "delightfulbuddycards:loot_table/blocks/playmat_delightful.json",
+    "sha256": "c4ff5f80201a7836e3b789c60963a346a86f154aff9a87bd03a369b3d6f4933b",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "extendedae.optional_loot_items",
+    "mods": [
+      "extendedae"
+    ],
+    "resource": "extendedae:loot_table/blocks/ex_emc_interface.json",
+    "sha256": "f5ba401c63dbb113bc5cbe2fce5b82d7eb057b4be920ca589d18934cdea6a4e0",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "minecolonies_compatibility.optional_loot_items",
+    "mods": [
+      "minecolonies_compatibility"
+    ],
+    "resource": "minecolonies_compatibility:loot_table/blocks/citizen_grid.json",
+    "sha256": "23631e4d7acad898a0853ce11aa136910e497a8655fdb2c9f7d104475703d219",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "creaturefeature.optional_loot_items",
+    "mods": [
+      "creaturefeature"
+    ],
+    "resource": "oreganized:loot_table/entities/extra_machination.json",
+    "sha256": "30d3815114c5a68fcfad155149acae9ad539e9a8420ec7e87a29077406e4089f",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "creaturefeature.optional_loot_items",
+    "mods": [
+      "creaturefeature"
+    ],
+    "resource": "oreganized:loot_table/entities/extra_minds.json",
+    "sha256": "54adea30e6b0ed285bc169edaec84f0d48168975efe4dab02e5f5a97045dc1d8",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "creaturefeature.optional_loot_items",
+    "mods": [
+      "creaturefeature"
+    ],
+    "resource": "oreganized:loot_table/entities/extra_sinister.json",
+    "sha256": "94d91cf689e9ed3faef2e23dffba6c588b6e9a02ab7ff019e1e75eb98a346048",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "creaturefeature.optional_loot_items",
+    "mods": [
+      "creaturefeature"
+    ],
+    "resource": "caverns_and_chasms:loot_table/entities/extra_sinister.json",
+    "sha256": "0350d400fe790e727829518219426d87d219ca64c825dbdc2f7cf05b18310611",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      }
+    ]
+  },
+  {
+    "id": "idas.optional_loot_items",
+    "mods": [
+      "idas"
+    ],
+    "resource": "idas:loot_table/chests/archmages_tower/archmages_tower.json",
+    "sha256": "c4dc7b8eb2704e516589b7b54f704e80e5b69ab69db82e790fd4822a939bfeab",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/1"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/2"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/3"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/4"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/5"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/6"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/7"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/8"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/1/entries/0"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/1/entries/1"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/1/entries/2"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/1/entries/3"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/1/entries/5"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/1/entries/6"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/1/entries/7"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/1/entries/8"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/1/entries/9"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/1/entries/10"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/2/entries/0"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/2/entries/1"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/2/entries/2"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/2/entries/3"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/2/entries/4"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/2/entries/5"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/2/entries/6"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/2/entries/7"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/2/entries/8"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/2/entries/9"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/2/entries/10"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/2/entries/11"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/2/entries/12"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/2/entries/13"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/2/entries/14"
+      }
+    ]
+  },
+  {
+    "id": "idas.optional_loot_items",
+    "mods": [
+      "idas"
+    ],
+    "resource": "idas:loot_table/chests/archmages_tower/archmages_tower_library.json",
+    "sha256": "8dd148f01d2839a070a48a97dad69f9b68d79bb63441fdf6ddfca7d85b0f9037",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/1"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/2"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/3"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/4"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/5"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/6"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/7"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/1/entries/1"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/1/entries/2"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/1/entries/3"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/1/entries/4"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/1/entries/5"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/2/entries/1"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/2/entries/2"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/2/entries/3"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/2/entries/4"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/2/entries/5"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/2/entries/6"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/2/entries/7"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/2/entries/8"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/2/entries/9"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/2/entries/10"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/2/entries/11"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/2/entries/12"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/2/entries/13"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/2/entries/14"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/2/entries/15"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/2/entries/16"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/2/entries/17"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/2/entries/18"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/2/entries/19"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/2/entries/20"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/2/entries/21"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/2/entries/22"
+      }
+    ]
+  },
+  {
+    "id": "idas.optional_loot_items",
+    "mods": [
+      "idas"
+    ],
+    "resource": "idas:loot_table/chests/archmages_tower/archmages_tower_treasure.json",
+    "sha256": "2823ebf57980acf0dfa2df0c9879d6da62d2cd19ea2529ede4d25075886afef6",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/1"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/2"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/3"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/4"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/5"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/6"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/7"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/8"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/9"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/10"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/11"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/12"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/13"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/14"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/15"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/16"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/17"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/18"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/19"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/20"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/21"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/1/entries/0"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/1/entries/1"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/1/entries/2"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/1/entries/3"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/1/entries/4"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/1/entries/5"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/1/entries/6"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/1/entries/7"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/1/entries/8"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/1/entries/9"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/1/entries/10"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/2/entries/0"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/2/entries/1"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/2/entries/2"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/2/entries/3"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/2/entries/4"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/2/entries/5"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/2/entries/6"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/2/entries/7"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/2/entries/8"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/2/entries/9"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/3/entries/0"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/3/entries/1"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/3/entries/2"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/3/entries/3"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/3/entries/4"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/3/entries/5"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/3/entries/6"
+      }
+    ]
+  },
+  {
+    "id": "idas.optional_loot_items",
+    "mods": [
+      "idas"
+    ],
+    "resource": "idas:loot_table/chests/enchantingtower/enchantingtower_basic_ars.json",
+    "sha256": "709f220767942391ea01d7c1d8b28df1d1e87d639359a5f2f6ca7d7d9db0b29a",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/1"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/2"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/3"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/4"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/5"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/6"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/7"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/1/entries/0"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/1/entries/1"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/1/entries/2"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/1/entries/3"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/1/entries/5"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/1/entries/6"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/1/entries/7"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/1/entries/8"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/1/entries/9"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/1/entries/10"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/2/entries/0"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/2/entries/1"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/2/entries/2"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/2/entries/3"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/2/entries/4"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/2/entries/5"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/2/entries/6"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/2/entries/7"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/2/entries/8"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/2/entries/9"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/2/entries/10"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/2/entries/11"
+      }
+    ]
+  },
+  {
+    "id": "idas.optional_loot_items",
+    "mods": [
+      "idas"
+    ],
+    "resource": "idas:loot_table/chests/enchantingtower/enchantingtower_top_ars.json",
+    "sha256": "ae45f7b4a8ce458ca33795e65d3faebea53023dc492ced00f07ef1486e041dcd",
+    "operations": [
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/0"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/1"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/2"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/0/entries/3"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/1/entries/0"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/1/entries/1"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/1/entries/2"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/2/entries/0"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/2/entries/1"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/2/entries/2"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/2/entries/3"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/2/entries/4"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/2/entries/5"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/3/entries/0"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/3/entries/1"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/3/entries/2"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/3/entries/3"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/3/entries/4"
+      },
+      {
+        "op": "empty_if_missing_item",
+        "path": "/pools/3/entries/5"
+      }
+    ]
+  },
+  {
+    "id": "irons_jewelry.material_filter_tags",
+    "mods": [
+      "irons_jewelry"
+    ],
+    "resource": "irons_jewelry:loot_table/generate_jewelry_test_materials.json",
+    "sha256": "7316920bb677760f6185c48d564c0e83a50e2c38ebecd1d0b4ee89a185a7c1ba",
+    "operations": [
+      {
+        "op": "rename",
+        "path": "/pools/0/entries/0/functions/0/materials/#irons_jewelry:metal",
+        "to": "irons_jewelry:metal"
+      },
+      {
+        "op": "rename",
+        "path": "/pools/0/entries/0/functions/0/materials/#irons_jewelry:gem",
+        "to": "irons_jewelry:gem"
+      }
+    ]
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.sanhiruzu.packrepairs.mixin",
+  "plugin": "com.sanhiruzu.packrepairs.mixin.RepairMixinPlugin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": ["FallbackResourceManagerMixin", "EngineVehicleMixin", "ModifiableBiomeInfoAccessor", "StructurePieceCountsMixin", "VineryRegistryMixin", "BuddycardsBookRegistryMixin", "CraftStackSlotsMixin", "CreateAdvancementBuilderMixin", "CreateAdvancementSaveMixin", "CreateAdvancementIconsMixin"],
+  "injectors": {"defaultRequire": 1}
+}

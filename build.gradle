@@ -1,0 +1,30 @@
+plugins {
+    id 'java-library'
+    id 'net.neoforged.moddev' version '2.0.141'
+}
+
+group = 'com.sanhiruzu.packrepairs'
+version = '0.1.7'
+base.archivesName = 'packrepairs-neoforge-1.21.1'
+java.toolchain.languageVersion = JavaLanguageVersion.of(21)
+
+repositories { mavenCentral(); maven { url = 'https://maven.fabricmc.net/' } }
+neoForge {
+    version = '21.1.228'
+    runs {
+        server {
+            server()
+            gameDirectory = file('../private/run-server')
+            programArgument '--nogui'
+        }
+    }
+    mods { packrepairs { sourceSet(sourceSets.main) } }
+}
+dependencies {
+    testImplementation 'org.junit.jupiter:junit-jupiter:5.10.2'
+    testImplementation 'com.google.code.gson:gson:2.10.1'
+    testImplementation 'net.fabricmc:sponge-mixin:0.15.2+mixin.0.8.7'
+    testRuntimeOnly 'org.junit.platform:junit-platform-launcher:1.10.2'
+}
+tasks.withType(JavaCompile).configureEach { options.encoding = 'UTF-8' }
+tasks.named('test', Test) { useJUnitPlatform() }

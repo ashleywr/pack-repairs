@@ -1,0 +1,1855 @@
+[
+  {
+    "id": "aeroforge.component_ingredients",
+    "mods": [
+      "aeroforge"
+    ],
+    "resource": "aeroforge:recipe/aircraft_frame.json",
+    "sha256": "d4ba36dde84ce67cc41e3a5e7e4a953afa878cc91a1c486e259d2be2888d1ad6",
+    "operations": [
+      {
+        "op": "replace",
+        "path": "/key/I",
+        "value": {
+          "item": "minecraft:iron_ingot"
+        }
+      },
+      {
+        "op": "replace",
+        "path": "/key/C",
+        "value": {
+          "item": "minecraft:copper_ingot"
+        }
+      }
+    ]
+  },
+  {
+    "id": "aeroforge.component_ingredients",
+    "mods": [
+      "aeroforge"
+    ],
+    "resource": "aeroforge:recipe/fuel_tank.json",
+    "sha256": "2293fd32a0ad7113995a703dbac1ef45535f4129e5c7c618e545ce4c3e98f5b1",
+    "operations": [
+      {
+        "op": "replace",
+        "path": "/key/I",
+        "value": {
+          "item": "minecraft:iron_ingot"
+        }
+      },
+      {
+        "op": "replace",
+        "path": "/key/C",
+        "value": {
+          "item": "minecraft:copper_ingot"
+        }
+      }
+    ]
+  },
+  {
+    "id": "aeroforge.component_ingredients",
+    "mods": [
+      "aeroforge"
+    ],
+    "resource": "aeroforge:recipe/helicopter_engine.json",
+    "sha256": "fead2cce8b5f4cd738860ce89c7f08fd747f7905df67e10d6c2143a6a78b37c3",
+    "operations": [
+      {
+        "op": "replace",
+        "path": "/key/I",
+        "value": {
+          "item": "minecraft:iron_ingot"
+        }
+      },
+      {
+        "op": "replace",
+        "path": "/key/C",
+        "value": {
+          "item": "minecraft:copper_ingot"
+        }
+      },
+      {
+        "op": "replace",
+        "path": "/key/R",
+        "value": {
+          "item": "minecraft:redstone_block"
+        }
+      },
+      {
+        "op": "replace",
+        "path": "/key/P",
+        "value": {
+          "item": "minecraft:piston"
+        }
+      }
+    ]
+  },
+  {
+    "id": "aeroforge.component_ingredients",
+    "mods": [
+      "aeroforge"
+    ],
+    "resource": "aeroforge:recipe/landing_gear.json",
+    "sha256": "e3399779908d812e0c9f78c0c29a36c97918808d652efeb16c75a6465195a34e",
+    "operations": [
+      {
+        "op": "replace",
+        "path": "/key/I",
+        "value": {
+          "item": "minecraft:iron_ingot"
+        }
+      },
+      {
+        "op": "replace",
+        "path": "/key/L",
+        "value": {
+          "item": "minecraft:leather"
+        }
+      }
+    ]
+  },
+  {
+    "id": "aeroforge.component_ingredients",
+    "mods": [
+      "aeroforge"
+    ],
+    "resource": "aeroforge:recipe/main_rotor_assembly.json",
+    "sha256": "2ae98ef9f7158b8464c1fe0e0dc3dc90350f310da2f8a38645d25d428fd303e5",
+    "operations": [
+      {
+        "op": "replace",
+        "path": "/key/P",
+        "value": {
+          "item": "minecraft:oak_planks"
+        }
+      },
+      {
+        "op": "replace",
+        "path": "/key/I",
+        "value": {
+          "item": "minecraft:iron_ingot"
+        }
+      }
+    ]
+  },
+  {
+    "id": "aeroforge.component_ingredients",
+    "mods": [
+      "aeroforge"
+    ],
+    "resource": "aeroforge:recipe/pilot_seat.json",
+    "sha256": "205237b559053460deb3ae955beb3564bd8e2a1486dd67a66084cb5f41cbba53",
+    "operations": [
+      {
+        "op": "replace",
+        "path": "/key/L",
+        "value": {
+          "item": "minecraft:leather"
+        }
+      },
+      {
+        "op": "replace",
+        "path": "/key/P",
+        "value": {
+          "item": "minecraft:oak_planks"
+        }
+      }
+    ]
+  },
+  {
+    "id": "aeroforge.component_ingredients",
+    "mods": [
+      "aeroforge"
+    ],
+    "resource": "aeroforge:recipe/pioneer_engine.json",
+    "sha256": "cce27f6f369ea14710ad9043424a2f51fc34728397b2c1221def277d49272904",
+    "operations": [
+      {
+        "op": "replace",
+        "path": "/key/I",
+        "value": {
+          "item": "minecraft:iron_ingot"
+        }
+      },
+      {
+        "op": "replace",
+        "path": "/key/C",
+        "value": {
+          "item": "minecraft:copper_ingot"
+        }
+      },
+      {
+        "op": "replace",
+        "path": "/key/R",
+        "value": {
+          "item": "minecraft:redstone"
+        }
+      },
+      {
+        "op": "replace",
+        "path": "/key/P",
+        "value": {
+          "item": "minecraft:piston"
+        }
+      }
+    ]
+  },
+  {
+    "id": "aeroforge.component_ingredients",
+    "mods": [
+      "aeroforge"
+    ],
+    "resource": "aeroforge:recipe/pioneer_propeller.json",
+    "sha256": "8ce5e3b56322628dd02a927b922e81118c3a1b529b7f0a9d149325e75ce915a4",
+    "operations": [
+      {
+        "op": "replace",
+        "path": "/key/P",
+        "value": {
+          "item": "minecraft:oak_planks"
+        }
+      },
+      {
+        "op": "replace",
+        "path": "/key/I",
+        "value": {
+          "item": "minecraft:iron_ingot"
+        }
+      }
+    ]
+  },
+  {
+    "id": "aeroforge.component_ingredients",
+    "mods": [
+      "aeroforge"
+    ],
+    "resource": "aeroforge:recipe/pioneer_wings.json",
+    "sha256": "c3e7e85465f7b308fdf09a8cf045d1095c5b0773f50ed4384d6a5995282a3edc",
+    "operations": [
+      {
+        "op": "replace",
+        "path": "/key/I",
+        "value": {
+          "item": "minecraft:iron_ingot"
+        }
+      },
+      {
+        "op": "replace",
+        "path": "/key/W",
+        "value": {
+          "item": "minecraft:white_wool"
+        }
+      }
+    ]
+  },
+  {
+    "id": "aeroforge.component_ingredients",
+    "mods": [
+      "aeroforge"
+    ],
+    "resource": "aeroforge:recipe/tail_assembly.json",
+    "sha256": "5e71fa565f36a6c6862b6733b24c61e5e7079145ddf842a5a5dceaffd3bb48f2",
+    "operations": [
+      {
+        "op": "replace",
+        "path": "/key/I",
+        "value": {
+          "item": "minecraft:iron_ingot"
+        }
+      }
+    ]
+  },
+  {
+    "id": "aeroforge.component_ingredients",
+    "mods": [
+      "aeroforge"
+    ],
+    "resource": "aeroforge:recipe/tail_rotor_assembly.json",
+    "sha256": "760aa7dd5355711f1591a36ce51803763129fd4eb53b14bfd0de277caeda845d",
+    "operations": [
+      {
+        "op": "replace",
+        "path": "/key/P",
+        "value": {
+          "item": "minecraft:iron_ingot"
+        }
+      },
+      {
+        "op": "replace",
+        "path": "/key/I",
+        "value": {
+          "item": "minecraft:copper_ingot"
+        }
+      }
+    ]
+  },
+  {
+    "id": "hexerei.willow_vines_loot",
+    "mods": [
+      "hexerei"
+    ],
+    "resource": "hexerei:loot_table/blocks/willow_vines.json",
+    "sha256": "d48c6d3be623d07ed357db359dc6aaf86c5d41e767facdf48aafa29973b342d4",
+    "operations": [
+      {
+        "op": "replace",
+        "path": "/pools/0/conditions/0/condition",
+        "value": "neoforge:can_item_perform_ability"
+      },
+      {
+        "op": "rename",
+        "path": "/pools/0/conditions/0/action",
+        "to": "ability"
+      }
+    ]
+  },
+  {
+    "id": "scguns.wristbreaker_unused_key",
+    "mods": [
+      "scguns",
+      "create"
+    ],
+    "resource": "scguns:recipe/create/mechanical_crafting/jr_wristbreaker.json",
+    "sha256": "b617dca5066a066ef22f5488df503f17549fe4809748e2d11b9c710e034a254a",
+    "operations": [
+      {
+        "op": "remove",
+        "path": "/key/C"
+      }
+    ]
+  },
+  {
+    "id": "scguns.blunderer_looting",
+    "mods": [
+      "scguns"
+    ],
+    "resource": "scguns:loot_table/entities/blunderer.json",
+    "sha256": "15f860f89279601388e0401afcd42499bebe11d5f0fb08300bbb2e6ad61699dd",
+    "operations": [
+      {
+        "op": "replace",
+        "path": "/pools/0/entries/1/functions/1/function",
+        "value": "minecraft:enchanted_count_increase"
+      },
+      {
+        "op": "replace",
+        "path": "/pools/0/entries/1/functions/1/enchantment",
+        "value": "minecraft:looting"
+      }
+    ]
+  },
+  {
+    "id": "beautify.nested_loot_reference",
+    "mods": [
+      "beautify"
+    ],
+    "resource": "beautify:loot_table/blocks/acacia_trellis.json",
+    "sha256": "2175814b8a76ccf8bd1a8ce26e45bb94f13b6682efe0ea0da21ce5e597cacfa4",
+    "operations": [
+      {
+        "op": "rename",
+        "path": "/pools/0/entries/1/name",
+        "to": "value"
+      },
+      {
+        "op": "rename",
+        "path": "/pools/0/entries/2/name",
+        "to": "value"
+      },
+      {
+        "op": "rename",
+        "path": "/pools/0/entries/3/name",
+        "to": "value"
+      },
+      {
+        "op": "rename",
+        "path": "/pools/0/entries/4/name",
+        "to": "value"
+      },
+      {
+        "op": "rename",
+        "path": "/pools/0/entries/5/name",
+        "to": "value"
+      },
+      {
+        "op": "rename",
+        "path": "/pools/0/entries/6/name",
+        "to": "value"
+      },
+      {
+        "op": "rename",
+        "path": "/pools/0/entries/7/name",
+        "to": "value"
+      },
+      {
+        "op": "rename",
+        "path": "/pools/0/entries/8/name",
+        "to": "value"
+      }
+    ]
+  },
+  {
+    "id": "beautify.nested_loot_reference",
+    "mods": [
+      "beautify"
+    ],
+    "resource": "beautify:loot_table/blocks/birch_trellis.json",
+    "sha256": "66b2845e6be259da8109510d671c00175a63168a643f4a81ff5eed1326d234da",
+    "operations": [
+      {
+        "op": "rename",
+        "path": "/pools/0/entries/1/name",
+        "to": "value"
+      },
+      {
+        "op": "rename",
+        "path": "/pools/0/entries/2/name",
+        "to": "value"
+      },
+      {
+        "op": "rename",
+        "path": "/pools/0/entries/3/name",
+        "to": "value"
+      },
+      {
+        "op": "rename",
+        "path": "/pools/0/entries/4/name",
+        "to": "value"
+      },
+      {
+        "op": "rename",
+        "path": "/pools/0/entries/5/name",
+        "to": "value"
+      },
+      {
+        "op": "rename",
+        "path": "/pools/0/entries/6/name",
+        "to": "value"
+      },
+      {
+        "op": "rename",
+        "path": "/pools/0/entries/7/name",
+        "to": "value"
+      },
+      {
+        "op": "rename",
+        "path": "/pools/0/entries/8/name",
+        "to": "value"
+      }
+    ]
+  },
+  {
+    "id": "beautify.nested_loot_reference",
+    "mods": [
+      "beautify"
+    ],
+    "resource": "beautify:loot_table/blocks/crimson_trellis.json",
+    "sha256": "3120060f647018d49daa171345f931b4dcedc83fca9f929e494a1acbdd59c99a",
+    "operations": [
+      {
+        "op": "rename",
+        "path": "/pools/0/entries/1/name",
+        "to": "value"
+      },
+      {
+        "op": "rename",
+        "path": "/pools/0/entries/2/name",
+        "to": "value"
+      },
+      {
+        "op": "rename",
+        "path": "/pools/0/entries/3/name",
+        "to": "value"
+      },
+      {
+        "op": "rename",
+        "path": "/pools/0/entries/4/name",
+        "to": "value"
+      },
+      {
+        "op": "rename",
+        "path": "/pools/0/entries/5/name",
+        "to": "value"
+      },
+      {
+        "op": "rename",
+        "path": "/pools/0/entries/6/name",
+        "to": "value"
+      },
+      {
+        "op": "rename",
+        "path": "/pools/0/entries/7/name",
+        "to": "value"
+      },
+      {
+        "op": "rename",
+        "path": "/pools/0/entries/8/name",
+        "to": "value"
+      }
+    ]
+  },
+  {
+    "id": "beautify.nested_loot_reference",
+    "mods": [
+      "beautify"
+    ],
+    "resource": "beautify:loot_table/blocks/dark_oak_trellis.json",
+    "sha256": "296d84376f2db83656262af29054d83351b91a7ad921e42f3be8358095d9bd00",
+    "operations": [
+      {
+        "op": "rename",
+        "path": "/pools/0/entries/1/name",
+        "to": "value"
+      },
+      {
+        "op": "rename",
+        "path": "/pools/0/entries/2/name",
+        "to": "value"
+      },
+      {
+        "op": "rename",
+        "path": "/pools/0/entries/3/name",
+        "to": "value"
+      },
+      {
+        "op": "rename",
+        "path": "/pools/0/entries/4/name",
+        "to": "value"
+      },
+      {
+        "op": "rename",
+        "path": "/pools/0/entries/5/name",
+        "to": "value"
+      },
+      {
+        "op": "rename",
+        "path": "/pools/0/entries/6/name",
+        "to": "value"
+      },
+      {
+        "op": "rename",
+        "path": "/pools/0/entries/7/name",
+        "to": "value"
+      },
+      {
+        "op": "rename",
+        "path": "/pools/0/entries/8/name",
+        "to": "value"
+      }
+    ]
+  },
+  {
+    "id": "beautify.nested_loot_reference",
+    "mods": [
+      "beautify"
+    ],
+    "resource": "beautify:loot_table/blocks/hanging_pot.json",
+    "sha256": "15a7046b64b1d7a17f9c52a7b751f659da90015747975db29fb551ba2384d5a4",
+    "operations": [
+      {
+        "op": "rename",
+        "path": "/pools/0/entries/1/name",
+        "to": "value"
+      },
+      {
+        "op": "rename",
+        "path": "/pools/0/entries/2/name",
+        "to": "value"
+      },
+      {
+        "op": "rename",
+        "path": "/pools/0/entries/3/name",
+        "to": "value"
+      },
+      {
+        "op": "rename",
+        "path": "/pools/0/entries/4/name",
+        "to": "value"
+      },
+      {
+        "op": "rename",
+        "path": "/pools/0/entries/5/name",
+        "to": "value"
+      },
+      {
+        "op": "rename",
+        "path": "/pools/0/entries/6/name",
+        "to": "value"
+      },
+      {
+        "op": "rename",
+        "path": "/pools/0/entries/7/name",
+        "to": "value"
+      },
+      {
+        "op": "rename",
+        "path": "/pools/0/entries/8/name",
+        "to": "value"
+      },
+      {
+        "op": "rename",
+        "path": "/pools/0/entries/9/name",
+        "to": "value"
+      },
+      {
+        "op": "rename",
+        "path": "/pools/0/entries/10/name",
+        "to": "value"
+      },
+      {
+        "op": "rename",
+        "path": "/pools/0/entries/11/name",
+        "to": "value"
+      },
+      {
+        "op": "rename",
+        "path": "/pools/0/entries/12/name",
+        "to": "value"
+      },
+      {
+        "op": "rename",
+        "path": "/pools/0/entries/13/name",
+        "to": "value"
+      },
+      {
+        "op": "rename",
+        "path": "/pools/0/entries/14/name",
+        "to": "value"
+      },
+      {
+        "op": "rename",
+        "path": "/pools/0/entries/15/name",
+        "to": "value"
+      },
+      {
+        "op": "rename",
+        "path": "/pools/0/entries/16/name",
+        "to": "value"
+      },
+      {
+        "op": "rename",
+        "path": "/pools/0/entries/17/name",
+        "to": "value"
+      },
+      {
+        "op": "rename",
+        "path": "/pools/0/entries/18/name",
+        "to": "value"
+      },
+      {
+        "op": "rename",
+        "path": "/pools/0/entries/19/name",
+        "to": "value"
+      },
+      {
+        "op": "rename",
+        "path": "/pools/0/entries/20/name",
+        "to": "value"
+      },
+      {
+        "op": "rename",
+        "path": "/pools/0/entries/21/name",
+        "to": "value"
+      },
+      {
+        "op": "rename",
+        "path": "/pools/0/entries/22/name",
+        "to": "value"
+      },
+      {
+        "op": "rename",
+        "path": "/pools/0/entries/23/name",
+        "to": "value"
+      },
+      {
+        "op": "rename",
+        "path": "/pools/0/entries/24/name",
+        "to": "value"
+      },
+      {
+        "op": "rename",
+        "path": "/pools/0/entries/25/name",
+        "to": "value"
+      },
+      {
+        "op": "rename",
+        "path": "/pools/0/entries/26/name",
+        "to": "value"
+      }
+    ]
+  },
+  {
+    "id": "beautify.nested_loot_reference",
+    "mods": [
+      "beautify"
+    ],
+    "resource": "beautify:loot_table/blocks/jungle_trellis.json",
+    "sha256": "52051359b93575a5d03467a538c2371168b960d831b8b017ccf6868c56d6118d",
+    "operations": [
+      {
+        "op": "rename",
+        "path": "/pools/0/entries/1/name",
+        "to": "value"
+      },
+      {
+        "op": "rename",
+        "path": "/pools/0/entries/2/name",
+        "to": "value"
+      },
+      {
+        "op": "rename",
+        "path": "/pools/0/entries/3/name",
+        "to": "value"
+      },
+      {
+        "op": "rename",
+        "path": "/pools/0/entries/4/name",
+        "to": "value"
+      },
+      {
+        "op": "rename",
+        "path": "/pools/0/entries/5/name",
+        "to": "value"
+      },
+      {
+        "op": "rename",
+        "path": "/pools/0/entries/6/name",
+        "to": "value"
+      },
+      {
+        "op": "rename",
+        "path": "/pools/0/entries/7/name",
+        "to": "value"
+      },
+      {
+        "op": "rename",
+        "path": "/pools/0/entries/8/name",
+        "to": "value"
+      }
+    ]
+  },
+  {
+    "id": "beautify.nested_loot_reference",
+    "mods": [
+      "beautify"
+    ],
+    "resource": "beautify:loot_table/blocks/lamp_jar.json",
+    "sha256": "b35d71b9385cc17e06590b1d7750c75f57bd45b11bd437522a09cf0fb4b7dc9b",
+    "operations": [
+      {
+        "op": "rename",
+        "path": "/pools/0/entries/1/name",
+        "to": "value"
+      },
+      {
+        "op": "rename",
+        "path": "/pools/0/entries/2/name",
+        "to": "value"
+      },
+      {
+        "op": "rename",
+        "path": "/pools/0/entries/3/name",
+        "to": "value"
+      }
+    ]
+  },
+  {
+    "id": "beautify.nested_loot_reference",
+    "mods": [
+      "beautify"
+    ],
+    "resource": "beautify:loot_table/blocks/mangrove_trellis.json",
+    "sha256": "3e04cae957475d0fb747662089f0bd370ebc261d77bbe787620a632bf7f13eea",
+    "operations": [
+      {
+        "op": "rename",
+        "path": "/pools/0/entries/1/name",
+        "to": "value"
+      },
+      {
+        "op": "rename",
+        "path": "/pools/0/entries/2/name",
+        "to": "value"
+      },
+      {
+        "op": "rename",
+        "path": "/pools/0/entries/3/name",
+        "to": "value"
+      },
+      {
+        "op": "rename",
+        "path": "/pools/0/entries/4/name",
+        "to": "value"
+      },
+      {
+        "op": "rename",
+        "path": "/pools/0/entries/5/name",
+        "to": "value"
+      },
+      {
+        "op": "rename",
+        "path": "/pools/0/entries/6/name",
+        "to": "value"
+      },
+      {
+        "op": "rename",
+        "path": "/pools/0/entries/7/name",
+        "to": "value"
+      },
+      {
+        "op": "rename",
+        "path": "/pools/0/entries/8/name",
+        "to": "value"
+      }
+    ]
+  },
+  {
+    "id": "beautify.nested_loot_reference",
+    "mods": [
+      "beautify"
+    ],
+    "resource": "beautify:loot_table/blocks/oak_trellis.json",
+    "sha256": "2d90d3563c0260101d94bd3788ed757101188aa1b40f89a9d7f191a6b7873491",
+    "operations": [
+      {
+        "op": "rename",
+        "path": "/pools/0/entries/1/name",
+        "to": "value"
+      },
+      {
+        "op": "rename",
+        "path": "/pools/0/entries/2/name",
+        "to": "value"
+      },
+      {
+        "op": "rename",
+        "path": "/pools/0/entries/3/name",
+        "to": "value"
+      },
+      {
+        "op": "rename",
+        "path": "/pools/0/entries/4/name",
+        "to": "value"
+      },
+      {
+        "op": "rename",
+        "path": "/pools/0/entries/5/name",
+        "to": "value"
+      },
+      {
+        "op": "rename",
+        "path": "/pools/0/entries/6/name",
+        "to": "value"
+      },
+      {
+        "op": "rename",
+        "path": "/pools/0/entries/7/name",
+        "to": "value"
+      },
+      {
+        "op": "rename",
+        "path": "/pools/0/entries/8/name",
+        "to": "value"
+      }
+    ]
+  },
+  {
+    "id": "beautify.nested_loot_reference",
+    "mods": [
+      "beautify"
+    ],
+    "resource": "beautify:loot_table/blocks/spruce_trellis.json",
+    "sha256": "aac2e694fedd264800a3a70f5c5ba93b6a35883b7c4d3792cc157942dfa724bd",
+    "operations": [
+      {
+        "op": "rename",
+        "path": "/pools/0/entries/1/name",
+        "to": "value"
+      },
+      {
+        "op": "rename",
+        "path": "/pools/0/entries/2/name",
+        "to": "value"
+      },
+      {
+        "op": "rename",
+        "path": "/pools/0/entries/3/name",
+        "to": "value"
+      },
+      {
+        "op": "rename",
+        "path": "/pools/0/entries/4/name",
+        "to": "value"
+      },
+      {
+        "op": "rename",
+        "path": "/pools/0/entries/5/name",
+        "to": "value"
+      },
+      {
+        "op": "rename",
+        "path": "/pools/0/entries/6/name",
+        "to": "value"
+      },
+      {
+        "op": "rename",
+        "path": "/pools/0/entries/7/name",
+        "to": "value"
+      },
+      {
+        "op": "rename",
+        "path": "/pools/0/entries/8/name",
+        "to": "value"
+      }
+    ]
+  },
+  {
+    "id": "beautify.nested_loot_reference",
+    "mods": [
+      "beautify"
+    ],
+    "resource": "beautify:loot_table/blocks/warped_trellis.json",
+    "sha256": "90960ebc1538d9dc66b1035ac11317fbb82e11469facae9eb3f4dc8a664f5411",
+    "operations": [
+      {
+        "op": "rename",
+        "path": "/pools/0/entries/1/name",
+        "to": "value"
+      },
+      {
+        "op": "rename",
+        "path": "/pools/0/entries/2/name",
+        "to": "value"
+      },
+      {
+        "op": "rename",
+        "path": "/pools/0/entries/3/name",
+        "to": "value"
+      },
+      {
+        "op": "rename",
+        "path": "/pools/0/entries/4/name",
+        "to": "value"
+      },
+      {
+        "op": "rename",
+        "path": "/pools/0/entries/5/name",
+        "to": "value"
+      },
+      {
+        "op": "rename",
+        "path": "/pools/0/entries/6/name",
+        "to": "value"
+      },
+      {
+        "op": "rename",
+        "path": "/pools/0/entries/7/name",
+        "to": "value"
+      },
+      {
+        "op": "rename",
+        "path": "/pools/0/entries/8/name",
+        "to": "value"
+      }
+    ]
+  },
+  {
+    "id": "createdeco.placard_ingredient",
+    "mods": [
+      "createdeco",
+      "create"
+    ],
+    "resource": "createdeco:recipe/placard.json",
+    "sha256": "53201f1ee47692abba3ab703a92fadabd2ca95a2621fa0446ca6d1df36440a42",
+    "operations": [
+      {
+        "op": "rename",
+        "path": "/ingredients/1/id",
+        "to": "item"
+      }
+    ]
+  },
+  {
+    "id": "endersdelight.chorus_pie_cutting",
+    "mods": [
+      "endersdelight",
+      "farmersdelight"
+    ],
+    "resource": "endersdelight:recipe/chorus_pie_slice.json",
+    "sha256": "eee311a9dbdaa2b3e469195aa6b24a6ac640ee4f0ae20b6fa3f3ef903546819e",
+    "operations": [
+      {
+        "op": "replace",
+        "path": "/result/0",
+        "value": {
+          "item": {
+            "id": "endersdelight:chorus_pie_slice",
+            "count": 4
+          }
+        }
+      },
+      {
+        "op": "replace",
+        "path": "/tool/tag",
+        "value": "c:tools/knife"
+      }
+    ]
+  },
+  {
+    "id": "dungeonsdelight.looting_conditions",
+    "mods": [
+      "dungeonsdelight",
+      "farmersdelight"
+    ],
+    "resource": "dungeonsdelight:loot_modifiers/drops/drops_brined_flesh.json",
+    "sha256": "3e571963465049b635345bc801b0bfbcf0e3aa0adfdc8aa1bc291b26bfec5aa9",
+    "operations": [
+      {
+        "op": "replace",
+        "path": "/conditions/2",
+        "value": {
+          "condition": "minecraft:random_chance_with_enchanted_bonus",
+          "enchantment": "minecraft:looting",
+          "unenchanted_chance": 0.3,
+          "enchanted_chance": {
+            "type": "minecraft:linear",
+            "base": 0.4,
+            "per_level_above_first": 0.1
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "dungeonsdelight.looting_conditions",
+    "mods": [
+      "dungeonsdelight",
+      "farmersdelight"
+    ],
+    "resource": "dungeonsdelight:loot_modifiers/drops/drops_cooked_sniffer_shank.json",
+    "sha256": "c1801496bf57c5693ebc45c742024de4b9f49efe4d5527e29a1c6afe07046d99",
+    "operations": [
+      {
+        "op": "replace",
+        "path": "/conditions/2",
+        "value": {
+          "condition": "minecraft:random_chance_with_enchanted_bonus",
+          "enchantment": "minecraft:looting",
+          "unenchanted_chance": 0.75,
+          "enchanted_chance": {
+            "type": "minecraft:linear",
+            "base": 0.95,
+            "per_level_above_first": 0.2
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "dungeonsdelight.looting_conditions",
+    "mods": [
+      "dungeonsdelight",
+      "farmersdelight"
+    ],
+    "resource": "dungeonsdelight:loot_modifiers/drops/drops_gritty_flesh.json",
+    "sha256": "cb8cbcfea69b70ea15b178a0b2e8acf8bad4868eea52ad5a66513d5350100753",
+    "operations": [
+      {
+        "op": "replace",
+        "path": "/conditions/2",
+        "value": {
+          "condition": "minecraft:random_chance_with_enchanted_bonus",
+          "enchantment": "minecraft:looting",
+          "unenchanted_chance": 0.3,
+          "enchanted_chance": {
+            "type": "minecraft:linear",
+            "base": 0.4,
+            "per_level_above_first": 0.1
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "dungeonsdelight.looting_conditions",
+    "mods": [
+      "dungeonsdelight",
+      "farmersdelight"
+    ],
+    "resource": "dungeonsdelight:loot_modifiers/drops/drops_sniffer_shank.json",
+    "sha256": "7807bca68d8ab8ff79a6c05bb8c0da82e2b7e3d22d6be0b21ad67e7f72911190",
+    "operations": [
+      {
+        "op": "replace",
+        "path": "/conditions/2",
+        "value": {
+          "condition": "minecraft:random_chance_with_enchanted_bonus",
+          "enchantment": "minecraft:looting",
+          "unenchanted_chance": 0.75,
+          "enchanted_chance": {
+            "type": "minecraft:linear",
+            "base": 0.95,
+            "per_level_above_first": 0.2
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "dungeonsdelight.looting_conditions",
+    "mods": [
+      "dungeonsdelight",
+      "farmersdelight"
+    ],
+    "resource": "dungeonsdelight:loot_modifiers/scavenging/scavenging_gunk.json",
+    "sha256": "6445eccac3c6a8b8cffb53d71080cfa913216944623edc0a61c4a61ff24c06f0",
+    "operations": [
+      {
+        "op": "replace",
+        "path": "/conditions/2",
+        "value": {
+          "condition": "minecraft:random_chance_with_enchanted_bonus",
+          "enchantment": "minecraft:looting",
+          "unenchanted_chance": 0.4,
+          "enchanted_chance": {
+            "type": "minecraft:linear",
+            "base": 0.6,
+            "per_level_above_first": 0.2
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "dungeonsdelight.looting_conditions",
+    "mods": [
+      "dungeonsdelight",
+      "farmersdelight"
+    ],
+    "resource": "dungeonsdelight:loot_modifiers/scavenging/scavenging_rotten_tripe.json",
+    "sha256": "949ea8c54f068349bf64102b185410dc758e53f23f88ad6f867e2ee8c68c4ad0",
+    "operations": [
+      {
+        "op": "replace",
+        "path": "/conditions/2",
+        "value": {
+          "condition": "minecraft:random_chance_with_enchanted_bonus",
+          "enchantment": "minecraft:looting",
+          "unenchanted_chance": 0.4,
+          "enchanted_chance": {
+            "type": "minecraft:linear",
+            "base": 0.6,
+            "per_level_above_first": 0.2
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "dungeonsdelight.looting_conditions",
+    "mods": [
+      "dungeonsdelight",
+      "farmersdelight"
+    ],
+    "resource": "dungeonsdelight:loot_modifiers/scavenging/scavenging_slime_noodles.json",
+    "sha256": "7e44b75f9481e88557d7dbdc54618b9ad91c37c793698d72a643b610c0c91189",
+    "operations": [
+      {
+        "op": "replace",
+        "path": "/conditions/2",
+        "value": {
+          "condition": "minecraft:random_chance_with_enchanted_bonus",
+          "enchantment": "minecraft:looting",
+          "unenchanted_chance": 0.4,
+          "enchanted_chance": {
+            "type": "minecraft:linear",
+            "base": 0.6,
+            "per_level_above_first": 0.2
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "minersdelight.pickaxe_ability",
+    "mods": [
+      "minersdelight",
+      "farmersdelight"
+    ],
+    "resource": "minersdelight:loot_modifiers/breaking_infested_blocks.json",
+    "sha256": "80263db5df67236cc6a6e7c75c5083feb2b41498274a8c241140c61d795955df",
+    "operations": [
+      {
+        "op": "replace",
+        "path": "/conditions/2/condition",
+        "value": "neoforge:can_item_perform_ability"
+      },
+      {
+        "op": "rename",
+        "path": "/conditions/2/action",
+        "to": "ability"
+      }
+    ]
+  },
+  {
+    "id": "minersdelight.cooked_bat_wing",
+    "mods": [
+      "minersdelight",
+      "farmersdelight"
+    ],
+    "resource": "minersdelight:loot_modifiers/scavenging_cooked_bat_wing_knifeless.json",
+    "sha256": "bc4b8c8f316c8c025faf691f0abb42d1ba2a1aaba472c5220f226b58fc3de9b4",
+    "operations": [
+      {
+        "op": "replace",
+        "path": "/item",
+        "value": "minersdelight:smoked_bat_wing"
+      }
+    ]
+  },
+  {
+    "id": "minersdelight.chest_loot_table",
+    "mods": [
+      "minersdelight",
+      "farmersdelight"
+    ],
+    "resource": "minersdelight:loot_modifiers/add_loot_abandoned_mineshaft.json",
+    "sha256": "65e9f12e7db169e21c246b28a5bd8fcacc46bed0766df58e52e462156d42cd34",
+    "operations": [
+      {
+        "op": "rename",
+        "path": "/lootTable",
+        "to": "table"
+      }
+    ]
+  },
+  {
+    "id": "mynethersdelight.chest_loot_table",
+    "mods": [
+      "mynethersdelight",
+      "farmersdelight"
+    ],
+    "resource": "mynethersdelight:loot_modifiers/add_loot_bastion_treasure.json",
+    "sha256": "1409859bb9c017fb80901805ab748d293f13ee38ea8d4a019da2374d47d8e917",
+    "operations": [
+      {
+        "op": "rename",
+        "path": "/lootTable",
+        "to": "table"
+      }
+    ]
+  },
+  {
+    "id": "mynethersdelight.chest_loot_table",
+    "mods": [
+      "mynethersdelight",
+      "farmersdelight"
+    ],
+    "resource": "mynethersdelight:loot_modifiers/add_loot_bastion_hoglin_stable.json",
+    "sha256": "63b76c5fe0d96ebb4587abd4ef5a1b72f276f1ee23e26c43dd4dc7f6227747e5",
+    "operations": [
+      {
+        "op": "rename",
+        "path": "/lootTable",
+        "to": "table"
+      }
+    ]
+  },
+  {
+    "id": "regions_unexplored.ocelot_category",
+    "mods": [
+      "regions_unexplored"
+    ],
+    "resource": "regions_unexplored:worldgen/biome/eucalyptus_forest.json",
+    "sha256": "c00587247c01ec1dd73ca969eff50572aa65725604d175db6b91980f998a0ef3",
+    "operations": [
+      {
+        "op": "replace",
+        "path": "/spawners/monster",
+        "value": [
+          {
+            "type": "minecraft:spider",
+            "maxCount": 4,
+            "minCount": 4,
+            "weight": 100
+          },
+          {
+            "type": "minecraft:zombie",
+            "maxCount": 4,
+            "minCount": 4,
+            "weight": 95
+          },
+          {
+            "type": "minecraft:zombie_villager",
+            "maxCount": 1,
+            "minCount": 1,
+            "weight": 5
+          },
+          {
+            "type": "minecraft:skeleton",
+            "maxCount": 4,
+            "minCount": 4,
+            "weight": 100
+          },
+          {
+            "type": "minecraft:creeper",
+            "maxCount": 4,
+            "minCount": 4,
+            "weight": 100
+          },
+          {
+            "type": "minecraft:slime",
+            "maxCount": 4,
+            "minCount": 4,
+            "weight": 100
+          },
+          {
+            "type": "minecraft:enderman",
+            "maxCount": 4,
+            "minCount": 1,
+            "weight": 10
+          },
+          {
+            "type": "minecraft:witch",
+            "maxCount": 1,
+            "minCount": 1,
+            "weight": 5
+          }
+        ]
+      },
+      {
+        "op": "replace",
+        "path": "/spawners/creature",
+        "value": [
+          {
+            "type": "minecraft:sheep",
+            "maxCount": 4,
+            "minCount": 4,
+            "weight": 12
+          },
+          {
+            "type": "minecraft:pig",
+            "maxCount": 4,
+            "minCount": 4,
+            "weight": 10
+          },
+          {
+            "type": "minecraft:chicken",
+            "maxCount": 4,
+            "minCount": 4,
+            "weight": 10
+          },
+          {
+            "type": "minecraft:cow",
+            "maxCount": 4,
+            "minCount": 4,
+            "weight": 8
+          },
+          {
+            "type": "minecraft:chicken",
+            "maxCount": 4,
+            "minCount": 4,
+            "weight": 10
+          },
+          {
+            "type": "minecraft:parrot",
+            "maxCount": 2,
+            "minCount": 1,
+            "weight": 40
+          },
+          {
+            "type": "minecraft:wolf",
+            "maxCount": 4,
+            "minCount": 2,
+            "weight": 8
+          },
+          {
+            "type": "minecraft:ocelot",
+            "maxCount": 1,
+            "minCount": 1,
+            "weight": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "regions_unexplored.ocelot_category",
+    "mods": [
+      "regions_unexplored"
+    ],
+    "resource": "regions_unexplored:worldgen/biome/rainforest.json",
+    "sha256": "2fc030dc0d310b21a453295da29f87086f012a6937f257a3c65821c38d621b08",
+    "operations": [
+      {
+        "op": "replace",
+        "path": "/spawners/monster",
+        "value": [
+          {
+            "type": "minecraft:spider",
+            "maxCount": 4,
+            "minCount": 4,
+            "weight": 100
+          },
+          {
+            "type": "minecraft:zombie",
+            "maxCount": 4,
+            "minCount": 4,
+            "weight": 95
+          },
+          {
+            "type": "minecraft:zombie_villager",
+            "maxCount": 1,
+            "minCount": 1,
+            "weight": 5
+          },
+          {
+            "type": "minecraft:skeleton",
+            "maxCount": 4,
+            "minCount": 4,
+            "weight": 100
+          },
+          {
+            "type": "minecraft:creeper",
+            "maxCount": 4,
+            "minCount": 4,
+            "weight": 100
+          },
+          {
+            "type": "minecraft:slime",
+            "maxCount": 4,
+            "minCount": 4,
+            "weight": 100
+          },
+          {
+            "type": "minecraft:enderman",
+            "maxCount": 4,
+            "minCount": 1,
+            "weight": 10
+          },
+          {
+            "type": "minecraft:witch",
+            "maxCount": 1,
+            "minCount": 1,
+            "weight": 5
+          }
+        ]
+      },
+      {
+        "op": "replace",
+        "path": "/spawners/creature",
+        "value": [
+          {
+            "type": "minecraft:sheep",
+            "maxCount": 4,
+            "minCount": 4,
+            "weight": 12
+          },
+          {
+            "type": "minecraft:pig",
+            "maxCount": 4,
+            "minCount": 4,
+            "weight": 10
+          },
+          {
+            "type": "minecraft:chicken",
+            "maxCount": 4,
+            "minCount": 4,
+            "weight": 10
+          },
+          {
+            "type": "minecraft:cow",
+            "maxCount": 4,
+            "minCount": 4,
+            "weight": 8
+          },
+          {
+            "type": "minecraft:chicken",
+            "maxCount": 4,
+            "minCount": 4,
+            "weight": 10
+          },
+          {
+            "type": "minecraft:parrot",
+            "maxCount": 2,
+            "minCount": 1,
+            "weight": 40
+          },
+          {
+            "type": "minecraft:ocelot",
+            "maxCount": 1,
+            "minCount": 1,
+            "weight": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "regions_unexplored.ocelot_category",
+    "mods": [
+      "regions_unexplored"
+    ],
+    "resource": "regions_unexplored:worldgen/biome/sparse_rainforest.json",
+    "sha256": "8dba42f7994c4909204daab5997a8bc95fe186f2934308773badc3922f55f09e",
+    "operations": [
+      {
+        "op": "replace",
+        "path": "/spawners/monster",
+        "value": [
+          {
+            "type": "minecraft:spider",
+            "maxCount": 4,
+            "minCount": 4,
+            "weight": 100
+          },
+          {
+            "type": "minecraft:zombie",
+            "maxCount": 4,
+            "minCount": 4,
+            "weight": 95
+          },
+          {
+            "type": "minecraft:zombie_villager",
+            "maxCount": 1,
+            "minCount": 1,
+            "weight": 5
+          },
+          {
+            "type": "minecraft:skeleton",
+            "maxCount": 4,
+            "minCount": 4,
+            "weight": 100
+          },
+          {
+            "type": "minecraft:creeper",
+            "maxCount": 4,
+            "minCount": 4,
+            "weight": 100
+          },
+          {
+            "type": "minecraft:slime",
+            "maxCount": 4,
+            "minCount": 4,
+            "weight": 100
+          },
+          {
+            "type": "minecraft:enderman",
+            "maxCount": 4,
+            "minCount": 1,
+            "weight": 10
+          },
+          {
+            "type": "minecraft:witch",
+            "maxCount": 1,
+            "minCount": 1,
+            "weight": 5
+          }
+        ]
+      },
+      {
+        "op": "replace",
+        "path": "/spawners/creature",
+        "value": [
+          {
+            "type": "minecraft:sheep",
+            "maxCount": 4,
+            "minCount": 4,
+            "weight": 12
+          },
+          {
+            "type": "minecraft:pig",
+            "maxCount": 4,
+            "minCount": 4,
+            "weight": 10
+          },
+          {
+            "type": "minecraft:chicken",
+            "maxCount": 4,
+            "minCount": 4,
+            "weight": 10
+          },
+          {
+            "type": "minecraft:cow",
+            "maxCount": 4,
+            "minCount": 4,
+            "weight": 8
+          },
+          {
+            "type": "minecraft:chicken",
+            "maxCount": 4,
+            "minCount": 4,
+            "weight": 10
+          },
+          {
+            "type": "minecraft:parrot",
+            "maxCount": 2,
+            "minCount": 1,
+            "weight": 40
+          },
+          {
+            "type": "minecraft:wolf",
+            "maxCount": 4,
+            "minCount": 2,
+            "weight": 8
+          },
+          {
+            "type": "minecraft:ocelot",
+            "maxCount": 1,
+            "minCount": 1,
+            "weight": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "regions_unexplored.ocelot_category",
+    "mods": [
+      "regions_unexplored"
+    ],
+    "resource": "regions_unexplored:worldgen/biome/tropics.json",
+    "sha256": "03917cbe91ae6a756009eaabe54ff916cd8b3234fe301c1d7640efa9ed1fc277",
+    "operations": [
+      {
+        "op": "replace",
+        "path": "/spawners/monster",
+        "value": [
+          {
+            "type": "minecraft:spider",
+            "maxCount": 4,
+            "minCount": 4,
+            "weight": 100
+          },
+          {
+            "type": "minecraft:zombie",
+            "maxCount": 4,
+            "minCount": 4,
+            "weight": 95
+          },
+          {
+            "type": "minecraft:zombie_villager",
+            "maxCount": 1,
+            "minCount": 1,
+            "weight": 5
+          },
+          {
+            "type": "minecraft:skeleton",
+            "maxCount": 4,
+            "minCount": 4,
+            "weight": 100
+          },
+          {
+            "type": "minecraft:creeper",
+            "maxCount": 4,
+            "minCount": 4,
+            "weight": 100
+          },
+          {
+            "type": "minecraft:slime",
+            "maxCount": 4,
+            "minCount": 4,
+            "weight": 100
+          },
+          {
+            "type": "minecraft:enderman",
+            "maxCount": 4,
+            "minCount": 1,
+            "weight": 10
+          },
+          {
+            "type": "minecraft:witch",
+            "maxCount": 1,
+            "minCount": 1,
+            "weight": 5
+          }
+        ]
+      },
+      {
+        "op": "replace",
+        "path": "/spawners/creature",
+        "value": [
+          {
+            "type": "minecraft:sheep",
+            "maxCount": 4,
+            "minCount": 4,
+            "weight": 12
+          },
+          {
+            "type": "minecraft:pig",
+            "maxCount": 4,
+            "minCount": 4,
+            "weight": 10
+          },
+          {
+            "type": "minecraft:chicken",
+            "maxCount": 4,
+            "minCount": 4,
+            "weight": 10
+          },
+          {
+            "type": "minecraft:cow",
+            "maxCount": 4,
+            "minCount": 4,
+            "weight": 8
+          },
+          {
+            "type": "minecraft:chicken",
+            "maxCount": 4,
+            "minCount": 4,
+            "weight": 10
+          },
+          {
+            "type": "minecraft:parrot",
+            "maxCount": 2,
+            "minCount": 1,
+            "weight": 40
+          },
+          {
+            "type": "minecraft:ocelot",
+            "maxCount": 1,
+            "minCount": 1,
+            "weight": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "yungscavebiomes.sand_snapper_category",
+    "mods": [
+      "yungscavebiomes"
+    ],
+    "resource": "yungscavebiomes:worldgen/biome/lost_caves.json",
+    "sha256": "3ff70830b9fdf69fb4dfd52db2fc47753016ca6858bd384ee25e8ca5290966c8",
+    "operations": [
+      {
+        "op": "replace",
+        "path": "/spawners/ambient",
+        "value": [
+          {
+            "type": "minecraft:bat",
+            "weight": 10,
+            "minCount": 8,
+            "maxCount": 8
+          }
+        ]
+      },
+      {
+        "op": "replace",
+        "path": "/spawners/monster",
+        "value": [
+          {
+            "type": "minecraft:spider",
+            "weight": 100,
+            "minCount": 4,
+            "maxCount": 4
+          },
+          {
+            "type": "minecraft:husk",
+            "weight": 100,
+            "minCount": 4,
+            "maxCount": 4
+          },
+          {
+            "type": "minecraft:zombie_villager",
+            "weight": 5,
+            "minCount": 1,
+            "maxCount": 1
+          },
+          {
+            "type": "minecraft:skeleton",
+            "weight": 100,
+            "minCount": 4,
+            "maxCount": 4
+          },
+          {
+            "type": "minecraft:creeper",
+            "weight": 100,
+            "minCount": 4,
+            "maxCount": 4
+          },
+          {
+            "type": "minecraft:enderman",
+            "weight": 10,
+            "minCount": 1,
+            "maxCount": 4
+          },
+          {
+            "type": "minecraft:witch",
+            "weight": 5,
+            "minCount": 1,
+            "maxCount": 1
+          },
+          {
+            "type": "yungscavebiomes:sand_snapper",
+            "weight": 50,
+            "minCount": 1,
+            "maxCount": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "rats.ratlantis_category",
+    "mods": [
+      "rats"
+    ],
+    "resource": "rats:worldgen/biome/ratlantis.json",
+    "sha256": "da7de0c02739b4d03ab9e173f8fd00b7703a0921ef03184a54edaa10604e7df6",
+    "operations": [
+      {
+        "op": "replace",
+        "path": "/spawners/creature",
+        "value": [
+          {
+            "type": "minecraft:parrot",
+            "maxCount": 2,
+            "minCount": 1,
+            "weight": 40
+          },
+          {
+            "type": "minecraft:panda",
+            "maxCount": 2,
+            "minCount": 1,
+            "weight": 14
+          }
+        ]
+      },
+      {
+        "op": "replace",
+        "path": "/spawners/rats:rats",
+        "value": [
+          {
+            "type": "rats:rat",
+            "maxCount": 4,
+            "minCount": 2,
+            "weight": 10
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bloomingnature.grass_feature_order",
+    "mods": [
+      "bloomingnature"
+    ],
+    "resource": "bloomingnature:worldgen/biome/highland_woods.json",
+    "sha256": "f8492ab1b329236061ecd699307c6fc242976921d22c830ea7ca858b8817ac9f",
+    "operations": [
+      {
+        "op": "replace",
+        "path": "/features/9/2",
+        "value": "bloomingnature:grass/dense_wild_grass_patch_placed"
+      },
+      {
+        "op": "replace",
+        "path": "/features/9/3",
+        "value": "bloomingnature:grass/mossgrass_patch_placed"
+      }
+    ]
+  }
+]
