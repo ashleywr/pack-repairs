@@ -4,7 +4,7 @@ plugins {
 }
 
 group = 'com.sanhiruzu.packrepairs'
-version = '0.1.7'
+version = '0.1.8'
 base.archivesName = 'packrepairs-neoforge-1.21.1'
 java.toolchain.languageVersion = JavaLanguageVersion.of(21)
 

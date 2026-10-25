@@ -19,6 +19,30 @@ Biome-order repairs affect future chunk generation. Existing chunks are not rege
 
 Repairs are reported in the normal log as `Applied <repair> to <resource> from <pack>`; unmodified content keeps Minecraft's usual diagnostics.
 
+## Repairs added in 0.1.8
+
+`rechanted.inherited_ticker_helper` repairs a collision between Rechanted 1.0.0
+and Quark 4.1-487. Rechanted merges a private static `createTickerHelper` into
+Minecraft's enchanting table class. That hides the protected helper inherited
+from `BaseEntityBlock`, so Quark's Matrix Enchanting Table throws
+`IllegalAccessError` when its block-entity ticker is registered during chunk
+loading.
+
+After matching both affected upstream class fingerprints, the repair gives the
+merged Rechanted helper a private, namespaced name and updates its local call
+sites. Its bytecode body, access flags, ticker type checks, and table behavior
+remain unchanged. The protected inherited helper is then available to Quark
+and other subclasses again. The merged-method origin, modifiers and body are
+also checked before changing anything. Missing mods, changed source classes,
+unexpected transformed methods and the disable switch skip the repair.
+
+Restart clients and server after installation. Existing tables and saved chunks
+are supported; no world reset or world-file rewrite is required.
+
+Validation includes 34 unit tests, an isolated reproduction of the original
+access error, native ticker/type checks, placement and saved-chunk reload of a
+Matrix table, and clean startup/save/shutdown with neither optional mod present.
+
 ## Repairs added in 0.1.7
 
 `create.deferred_advancement_items` repairs Create 6.0.10's early advancement
@@ -256,3 +280,29 @@ fingerprints and conditional edits.
 Minecraft versions and loaders require their own builds and validation. This build is specific to NeoForge 1.21.1.
 
 Open Parties and Claims provider selection is a pack configuration fix, not a global mod repair: Magitema uses `permissionSystem = "permission_api"` and `primaryPartySystem = "default"`, matching its installed providers and previous fallback behavior. Login or vehicle-mount stalls require a gameplay profile and are not claimed as fixed by this mod.
+
+<!-- ashley-release-information -->
+
+## Ashley's builds
+
+This is an original project by Ashley Wijnen-Riems. Original project code is offered under the [MIT License](LICENSE). Third-party material retains its own license and attribution.
+
+Provided **AS IS**, without warranty of any kind. Maintenance, updates and support are best effort; compatibility with every modpack is not guaranteed.
+
+### Downloads and installation
+
+Download a runtime `.jar` from [GitHub Releases](https://github.com/ashleywr/pack-repairs/releases). Use the Minecraft version and loader named in that release and install its required dependencies. Do not install `-sources`, `-dev`, `-slim`, `-common` or test JARs as the mod.
+
+Close Minecraft, back up your world, and place the matching runtime JAR in the instance's `mods/` directory. Replace older versions of this same mod rather than loading duplicates. For content mods, install matching versions on the server and its clients unless the release explicitly says client-only or server-only.
+
+### Building and reporting problems
+
+Use Java 21 and the checked-in Gradle wrapper:
+
+```powershell
+.\gradlew.bat build
+```
+
+Build outputs are under `build/libs/` or each loader subproject's `build/libs/`. Some projects require the local development dependencies described above; those dependencies are not included in the download.
+
+For a problem report, include the exact release filename, Minecraft and loader versions, relevant mod versions, `logs/latest.log`, and a crash report if one was written. Remove private information before sharing logs. Remove the JAR to uninstall; worlds containing this mod's blocks, entities or world generation may require restoring a backup.

@@ -16,6 +16,7 @@ import org.spongepowered.asm.mixin.extensibility.IMixinInfo;
 
 public final class RepairMixinPlugin implements IMixinConfigPlugin {
     @Override public boolean shouldApplyMixin(String targetClassName, String mixinClassName) {
+        if (mixinClassName.endsWith("EnchantingTickerHelperMixin")) return enchantingTickerMatches();
         if (mixinClassName.endsWith("CreateAdvancementBuilderMixin") || mixinClassName.endsWith("CreateAdvancementSaveMixin") || mixinClassName.endsWith("CreateAdvancementIconsMixin")) return createAdvancementsMatch();
         if (mixinClassName.endsWith("CraftStackSlotsMixin")) return craftStackMatches();
         if (mixinClassName.endsWith("BuddycardsBookRegistryMixin")) return com.sanhiruzu.packrepairs.BuddycardsRulebookRepair.supported();
@@ -48,6 +49,12 @@ public final class RepairMixinPlugin implements IMixinConfigPlugin {
     }
 
     @Override public void onLoad(String mixinPackage) {
+        if (enchantingTickerMatches()) {
+            var active = MixinEnvironment.getCurrentEnvironment().getActiveTransformer();
+            if (active instanceof IMixinTransformer mixin && mixin.getExtensions() instanceof Extensions extensions
+                    && extensions.getExtensions().stream().noneMatch(extension -> extension instanceof EnchantingTickerHelperExtension))
+                extensions.add(new EnchantingTickerHelperExtension());
+        }
         if (createAdvancementsMatch()) {
             var active = MixinEnvironment.getCurrentEnvironment().getActiveTransformer();
             if (active instanceof IMixinTransformer mixin && mixin.getExtensions() instanceof Extensions extensions)
@@ -90,6 +97,14 @@ public final class RepairMixinPlugin implements IMixinConfigPlugin {
             LoggerFactory.getLogger("Pack Repairs").warn("Embers/Create repair unavailable: cannot register compatibility extension", exception);
         }
     }
+    private boolean enchantingTickerMatches() {
+        return RepairConfig.enabled("rechanted.inherited_ticker_helper")
+                && matches("rechanted", "net/tagtart/rechanted/mixins/EnchantmentTableBlockMixin.class",
+                "2ab6d21f66f06f5b49c1ddf68f571850bd2a2629a7827e080407254ac6b94e14")
+                && matches("quark", "org/violetmoon/quark/addons/oddities/block/MatrixEnchantingTableBlock.class",
+                "d8fb7d636f766460fb1d5f95cf197af0c10a6f5e67bb87d056fe5f4977240fcf");
+    }
+
     private boolean createAdvancementsMatch() {
         boolean enabled = RepairConfig.enabled("create.deferred_advancement_items")
                 && matches("create", "com/simibubi/create/foundation/advancement/CreateAdvancement.class", "737bad82201ee57f70d5b56c8f2c6af006a7988f7863f1dbd5741a0675fc938e")

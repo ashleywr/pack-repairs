@@ -4,6 +4,6 @@
   "package": "com.sanhiruzu.packrepairs.mixin",
   "plugin": "com.sanhiruzu.packrepairs.mixin.RepairMixinPlugin",
   "compatibilityLevel": "JAVA_21",
-  "mixins": ["FallbackResourceManagerMixin", "EngineVehicleMixin", "ModifiableBiomeInfoAccessor", "StructurePieceCountsMixin", "VineryRegistryMixin", "BuddycardsBookRegistryMixin", "CraftStackSlotsMixin", "CreateAdvancementBuilderMixin", "CreateAdvancementSaveMixin", "CreateAdvancementIconsMixin"],
+  "mixins": ["FallbackResourceManagerMixin", "EngineVehicleMixin", "ModifiableBiomeInfoAccessor", "StructurePieceCountsMixin", "VineryRegistryMixin", "BuddycardsBookRegistryMixin", "CraftStackSlotsMixin", "CreateAdvancementBuilderMixin", "CreateAdvancementSaveMixin", "CreateAdvancementIconsMixin", "EnchantingTickerHelperMixin"],
   "injectors": {"defaultRequire": 1}
 }
